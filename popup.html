@@ -1,0 +1,26 @@
+<!doctype html>
+<!--
+ This page is shown when the extension button is clicked, because the
+ "browser_action" field in manifest.json contains the "default_popup" key with
+ value "popup.html".
+ -->
+<html>
+  <head>
+    <title>OpenTabs- Open as many tabs you want in one click</title>
+    <style type="text/css">
+    .sites{
+      height: 250px;
+      width: 300px;
+    }
+    </style>
+  
+  </head>
+  <body>
+    <div>One website per line:</div>
+    <textarea class="sites" id="urls"></textarea>
+    <br/>
+    <input type="button" value="Open All Websites" id="btn-open-tabs"/>
+    <script type="text/javascript" src="popup.js"></script>
+  </body>
+</html>
+
