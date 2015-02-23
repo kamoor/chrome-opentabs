@@ -7,19 +7,15 @@
 <html>
   <head>
     <title>OpenTabs- Open as many tabs you want in one click</title>
-    <style type="text/css">
-    .sites{
-      height: 280px;
-      width: 325px;
-    }
-    </style>
-  
+    <link rel="stylesheet" type="text/css" href="popup.css">
   </head>
   <body>
-    <div>One website per line:</div>
+    <div>One website URL per line:</div>
     <textarea class="sites" id="urls"></textarea>
     <br/>
-    <input type="button" value="Open All Websites" id="btn-open-tabs"/>
+    <input type="button" value="open" id="btn-open-tabs" class="btn"/>
+    <input type="button" value="save" id="btn-save-urls" class="btn"/>
+      <input type="button" value="clear" id="btn-clear-urls" class="btn"/> <br/>
     <script type="text/javascript" src="popup.js"></script>
   </body>
 </html>
