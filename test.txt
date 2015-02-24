@@ -1,0 +1,2265 @@
+1
+Contents
+INTRODUCTION .......................................................................................................................... 2
+Structure of branched epithelial tubes ................................................................................. 2
+METHODS ................................................................................................................................. 30
+Chapter 3: acquisition of membrane polarity in epithelial tube formation patterns, signaling
+pathways, molecular mechanisms, and disease. ..................................................................... 82
+Author information ......................................................................................................... 82
+Abstract ........................................................................................................................... 82 2
+INTRODUCTION
+Structure of branched epithelial tubes
+Epithelial tubes are essential functional components of tubular organs of
+metazoans, such as lung, kidney, alimentary canal and vascular system. These
+tubular organs carry out the vital functions of transporting gases, cells, hormones,
+enzymes and nutrients and eliminate waste from the body to maintain normal
+metabolism and to sustain life. Epithelial tubes arise in various shapes and sizes
+and the ability to carry out their function relies largely on the distinct length and
+diameter of each tube. There are several defects and pathologies associated with
+developmental or acquired morphological instabilities of biological tubes, such as
+polycystic kidney disease (Deane and Ricardo 2007), atherosclerosis, ischemia
+and fibrocystic breast disease. Due to the clinical relevance of epithelial tube size
+regulation, equally entrancing questions have been put forth recently by
+researchers worldwide, including those that address the cellular and molecular
+mechanisms regulating biological tube dimensions.
+In both vertebrates and invertebrates, epithelial tubes can be highly
+elaborate and complex or simple unbranched cylindrical structures depending on
+the specific organ function. However, arrangement of epithelial cells in these tubes
+are relatively simple with only one layer of cells lining the lumen to facilitate its
+functions such as absorption and secretion. In vertebrates, epithelial tubes can be
+derived from one of the three primary germ layers; ectoderm, endoderm or 3
+mesoderm. During the formation of epithelial tubes, initially the cells arrange side
+by side and connect with each other through intercellular junctions to form an
+epithelial sheath. The cells in the epithelial sheath then migrate and rearrange
+themselves in a coordinated manner to form the lumen. There is a remarkable
+diversity in the mechanisms of lumen formation among the epithelial tubes
+including; wrapping, budding, hollowing and cavitation. Wrapping and budding
+are seen in polarized epithelia whereas, hollowing and cavitation are features of
+unpolarized epithelia. During budding and wrapping (Lubarsky and Krasnow
+2003) the primordium of epithelial tube invade to form a cup like structure. This
+process is mostly driven by the apical membrane constriction (Sawyer et al. 2010).
+In unpolarized epithelial sheath, lumen arise intracellularly as small cytoplasmic
+vesicles which fuse to form larger vesicles. Later, the vesicles fuse with the apical
+plasma membrane to connect with the lumina of the adjacent cells within the tube.
+This kind of lumen formation is called hollowing. Budding and hollowing are
+mechanistically similar in that both require vesicle fusion, suggesting a similar
+mechanism of lumen formation. Cavitation of unpolarized cells begin with the cell
+polarization at the periphery followed by apoptosis of the cells at the center to
+form the lumen. Followed by the establishment of lumen, epithelial tubes elongate
+by cell shape changes, cell rearrangements, cell recruitment or by cell division. In
+most cases, epithelial cells are surrounded by supporting cells (mesenchyme) and
+luminal extracellular matrix (ECM) which provide structural rigidity and support. 4
+Epithelial tubes exhibits certain key features, including close cell–cell
+contact and adhesion, apico-basal polarity, specialized intercellular junctions
+connecting neighboring cells and a basally located basement membrane. Each of
+these features can be independently modulated so as to attain proper tube
+dimensions. Despite the similarities of vertebrate and invertebrate epithelial tissue,
+there are some striking differences. For example, the cell junctions of invertebrate
+epithelial tissue are composed of sub apical complex, adherens junction (AJ) and
+septate junction (SJ) (Figure 1B), whereas vertebrate cell junctions comprise tight
+junction (TJ), AJ and desmosomes (Figure 1A). TJ in vertebrate and SJ in
+invertebrates share a common para cellular barrier function and are composed of
+claudins (Wu et al. 2004a). However the location on the cell junction with respect
+to AJ differs in that TJ is apical and the SJ is basal to the adherens junction (Knust
+and Bossinger 2002).
+Development of tubular epithelia comprise of two independent process;
+early pattering and tube maturation. Early patterning is the process by which
+epithelial tubes acquire branch specificity. This process is under strict control of
+signaling pathways. Once the branch identity is specified tubes reach their final
+functional dimensions through the process of maturation. Even though the early
+patterning of tubular networks have been studied elaborately, (Andrew and Ewald
+2010; Horowitz and Simons 2008; Lu and Werb 2008) mechanisms by which
+tubes acquire their mature sizes remain largely unknown. Both invertebrate and
+vertebrate model systems and cell lines such as Madin-Darby canine kidney 5
+
+
+ Tight junction Sub apical complex Adherens junctions
+ Desmosomes Septate junction Nucleus
+
+
+Figure 1. Difference between vertebrate and invertebrate cell junction. (A)
+Vertebrate cell junction consists of tight junction (TJ), adherens junction (AJ) and
+desmosomes. (B) The cell junction of invertebrates are composed of sub apical
+complex, adherens junction and the basolateral septate junction, TJ in vertebrate
+and SJ in invertebrates share a common para cellular barrier function. However,
+location of TJ and SJ differs in that TJ is apical and the SJ is basal to the adherens
+junction.
+(MDCK) cells and human umbilical vein endothelial cells (HUVECs)
+which form tubes when cultured with appropriate signals have been used to study
+the tubular organ development (Brouns et al. 2000; O’Brien & Mostov 2002).
+Even though vertebrate systems can be used to study tube morphogenesis, it is
+highly challenging to address such mechanisms in vertebrates due to their complex
+A B
+Vertebrate cell junction Invertebrate cell junction6
+architecture. One of the tractable and most studied model system for tube size
+regulation is Drosophila melanogaster trachea. Over the past few years, the use of
+Drosophila in developmental studies have increased immensely. This is mainly
+because of the availability of established methods for handling and manipulating
+flies and the immense understanding of fly biology.
+
+Drosophila as a model organism
+Drosophila has been used as a model system in genetic studies since the
+time of Thomas Hunt Morgan. One of the most important characteristics of a
+model organism to be used in genetic studies is its short life cycle. Drosophila has
+a very short life cycle which is temperature dependent. The optimum temperature
+for growth is 25ᵒC in which the fly takes about 10 days to complete life cycle
+whereas, at 18ᵒC the duration of life cycle almost doubles. This short life cycle
+allows geneticist to set up large scale crosses followed through several generations
+in months’ time. Another advantage of this organism is its simple and inexpensive
+diet. Moreover completion of Drosophila genome sequencing in 2001
+revolutionized use of flies in genetic and developmental studies. Fly genome is
+165 million base pairs long, hosting approximately 14,000 genes. Even though
+humans have considerably higher number of genes than flies, the number of gene
+families are comparable. Increase in number of genes in humans can be attributed
+to the gene duplication events occurred during the course of evolution.
+Nevertheless, most of the genes as well as developmental mechanisms are well 7
+conserved between Drosophila and humans such that most of the newly
+discovered genes including those responsible for various diseases can often be
+matched against the fruit fly counterparts. To study the functionality of a gene,
+mutations can be induced easily either by exposing flies to radiation or mutagenic
+chemicals such as EMS or through transposon based gene excision. In addition,
+advanced DNA manipulation techniques such as CRISPER technology also have
+been used successfully in flies. This way mutant flies are already available for a
+large number of genes. Drosophila has a small genome with only three pairs of
+autosomes in addition to X and Y chromosomes. X chromosome is often
+considered as the first chromosome. Second and third chromosomes are the largest
+and Y and fourth chromosomes are smaller with the least genetic information.
+Another advantage of flies is the lack of genetic recombination in males. There are
+also various genetic markers and tools that has been developed in flies including
+balancer chromosomes. Balancer chromosomes contain multiple inversions which
+prevent the recombination with the homologous chromosomes. In addition, the
+balancer chromosome contains one or more dominant or recessive markers which
+are often lethal when homozygous. The advantage of balancer chromosome in fly
+genetics is that mutations created on a chromosome will be preserved in
+subsequent generations if the homologous chromosome is a balancer that prevents
+genetic recombination. At the same time genetic markers on these balancers can
+be used to track down segregation of chromosomes and mutations during various
+genetic crosses by following the phenotype. Balancer chromosomes are available 8
+for each one of the corresponding fly chromosome. All the above mentioned
+characteristics make Drosophila one of the best model organism to study basic
+principles of patterning, organ development, signaling pathways, behavioral
+studies and as a disease model. Furthermore, Drosophila embryonic trachea is
+used widely as an excellent in vivo model to study the epithelial morphogenesis
+and tube size defects. It is a tractable model system with a simple structure,
+monolayer of epithelial cells and highly specified tube dimensions. The
+mechanisms of tube-size regulation revealed by the Drosophila trachea will help
+us understand the normal development of human tubular organs and thus the
+mechanism of human diseases associated with tube-size defects.
+Development of the Drosophila Trachea
+Trachea serves the role of both pulmonary and vascular system in
+Drosophila melanogaster. Embryonic trachea develops from series of segmentally
+repeated ectodermal clusters between embryonic stages 11 and 17. Initially,
+JAK/STAT signaling induces the tracheal formation by activating the expression
+of two of the earliest tracheal genes, trachealess (trh) and ventral veinless (vvl)
+(Chung, Chavez, and Andrew 2011; J. Li et al. 2003; Sotillos et al. 2010). Trh and
+Vvl are transcription factors which regulate downstream target genes required for
+tracheal development (Chung et al. 2011). At embryonic stage 11, the tracheal
+precursor cells arrange themselves in 10 groups of approximately 80 cells each, on
+either side of the embryo from second thoracic to eighth abdominal segment 9
+(Kerman & Andrew 2006). Subsequently, the precursor to each hemi-segment of
+the tracheal network called tracheal placodes are formed by elongation of tracheal
+precursor cells along the apico basal axis. Further, activation of EGF signaling in
+tracheal precursor cells lead to the invagination of two to three cells of tracheal
+placodes to form tracheal sac. This invagination happens through an apical
+constriction mechanism (Brodu and Casanova 2006; M Llimargas and Casanova
+1999) in which the ventral cells invaginate ahead of the dorsal cells (Samakovlis et
+al. 1996). From this point onwards tracheal cells stop dividing and further
+elaboration of tracheal system is attained through coordinated cell rearrangements,
+cell shape changes and cell migration (Wilk & Shilo 1996). The specification of
+tracheal precursors to form specific branch types depends on various signaling
+pathways such as, wingless (Wg) signaling, transforming growth factor β (TGF-β)
+(DPP in Drosophila trachea) signaling, and possibly epidermal growth factor
+(EGF) signaling (de Celis & Casanova 1995; Isaac and Andrew 1996; Wilk &
+Shilo 1996). After invagination, subset of cells in the tracheal sac, through the
+process of budding migrate from each other in a stereotypical direction to form six
+primary branches. Migration of specific tracheal branches along distinct direction
+requires the combination of fibroblast growth factor (FGF) signaling and branch
+specific signaling (Klämbt & Shilo 1992; Reichman-Fried et al. 1994; Sutherland
+& Krasnow 1996). The six primary branches include the anterior and posterior
+dorsal trunks (DTa and DTp), anterior and posterior lateral trunks (LTa and LTp),
+ganglionic branch (GB) and visceral branch (VB).The cells that do not contribute 10
+to the primary branches form the transverse connective (TC). Specifically, cells in
+the dorsal and ventral region of the tracheal sac, which are exposed to the DPP
+signals (in red), migrate toward FGF signal from surrounding tissues either
+dorsally to form the DB or ventrally to form both the LT and GB (Affolter et al.
+1994; Chihara and Hayashi 2000; M Llimargas 2000; Vincent et al. 1997). In the
+central region of the tracheal sac, there are three groups of cells. One group
+exposed to Wg signaling (in yellow) migrate toward FGF signal to form the DT
+(Chihara and Hayashi 2000; M Llimargas 2000), second group (in blue) exposed
+to integrin signaling but not Wg signaling migrate internally to form VB; the third
+group (in white) remain at the site of invagination to become TC (Figure 2).
+Figure 2. Role of signaling pathways in branch specification of trachea. (A) Cells
+in the central region of each tracheal placodes exposed to Wg signaling migrate to
+form DT (yellow); cells remain at the site of invagination form TC (white); those
+which receive TGF-β (DPP) signal (red) at the dorsal and ventral sides form DB,
+LT, and GB branches. Cells that do not receive Wg signal (yellow) but receive
+integrin signal migrate internally to form VB (blue). (B) Corresponding tracheal
+segments in mature trachea is shown using similar colors. (C) The migration of
+tracheal cells towards surrounding mesenchyme is directed by FGF signaling and
+branch specific signaling. Thus different groups of cells receive specific signals
+and migrate to form stereotyped branches of tracheal network. 11
+At stage 12 of embryogenesis, most of the tracheal branches begin to form
+and maintain a tubular structure while they continue to extend (Samakovlis et al.
+1996) No new branches develop after stage 12, but the existing branches continue
+to grow towards their specific targets. At stage 14, primary branches give rise to
+around 25 unicellular secondary branches under the regulation of fibroblast growth
+factor (FGF) signaling (Samakovlis et al. 1996; Sutherland & Krasnow 1996).
+Most of the secondary branches spread cytoplasmic extensions which are
+otherwise called tertiary branches.
+Types of tubes in trachea
+Trachea is a branched tubular epithelial network with apical surfaces of the
+cells facing the lumen and the basal surfaces facing the surrounding tissues or
+basal lamina. A mature trachea consists of four types of tubes (Samakovlis et al.
+1996) (Fig 2). Type I tubes are multicellular and includes the main trunk of the
+trachea, the dorsal trunk (DT) and majority of the transverse connective (TC).
+Transverse connective acts as a stalk connecting the tracheal branches within each
+metamere. In these tubes several cells are connected by intercellular junctions and
+the apical membrane of the cells surround an extracellular central lumen. The
+Type II tubes are unicellular and includes; lateral trunk (LT), ganglionic branch
+(GB), dorsal branch (DB), and visceral branch (VB). These tubes are formed of 12
+linear arrangement of single cells whose apical surfaces fold and connect with
+itself through auto cellular junction to enclose an extracellular lumen. In this case,
+the neighboring cells are connected through intercellular junctions. The main
+function of Type I and Type II tubes are to transport gases. Type III tubes are
+intracellular and connects Type I or Type II tubes of the adjacent or contralateral
+tracheal metamere. Such tubes are formed by arranging two donut shaped cells, in
+a linear head-to-tail configuration, and their apical surfaces span the inner wall of
+the donut, resulting in seamless tubes without intracellular junctions (ex: fusion
+cells). Type IV tubes are highly branched intracellular cytoplasmic extensions
+protruding from the terminal cells at the tips of unicellular tubes. In such tubes
+intracellular lumen arises by growth of the apical membrane inwards the cell
+(Gervais and Casanova 2010). Type IV tubes contact target tissue directly for gas
+exchange and this type of tubes include lateral ganglionic (LG) branches.
+Overview of tracheal tube maturation
+Trachea attains its final functional dimensions through the process of tube
+maturation. This occurs during defined time interval between embryonic stages 13
+and 16 (Tsarouhas et al. 2007). Tube maturation includes, highly coordinated
+events of growth in both length and diameter through cell shape changes mainly at
+the apical surface of tracheal cells. However, during tube maturation, cell number
+remains unchanged (Beitel and Krasnow 2000). Key cellular processes involved in
+tube maturation include; apical secretion, endocytic recycling, cytoskeletal 13
+changes and junctional rearrangements (Luschnig and Uv 2014). The changes in
+cell shape is initiated through, apical secretion pulses that deposit apical
+membrane components and extra cellular matrix (luminal matrix). Massive
+deposition of membrane and matrix components through apical secretion at early
+stages of embryogenesis is likely the driving force for tube diametric expansion
+and luminal matrix assembly. On the contrary, tube elongation is a continuous
+process and happens throughout embryogenesis (Zuo et al. 2013;Beitel and
+Krasnow 2000). Tube elongation is initiated by, Src42A, a tyrosine-protein kinase
+which mediates cell shape changes by promoting AJ remodeling through DEcadherin
+recycling (Förster and Luschnig 2012). At the same time, Src42A also
+promotes axially oriented expansion of apical surfaces by interacting with dDaam.
+dDaam is a Diaphanous-related formin that has a role in cytoskeletal
+rearrangement (Nelson et al. 2012). Therefore, Src42A mediated AJ remodeling
+and cytoskeleton rearrangement likely stimulates the initiation of tube elongation.
+However, the specifics of AJ remodeling and cytoskeleton rearrangement is still
+largely unknown. Consistent with the role of Src42A in Drosophila, vertebrate Src
+interacts with Daam, the vertebrate homolog of dDaam (Aspenström and
+Johansson 2006) and phosphorylates several proteins associated with cytoskeleton
+and AJ (Thomas and Brugge 1997). Therefore tube elongation is initiated by
+Src42A mediated AJ remodeling and cytoskeleton rearrangement and afterwards
+tube elongation is a continuous process maintained by cell polarity and the luminal
+matrix to ensure proper length. 14
+Stability of biological tubes are determined by three important factors; the
+ECM elasticity, apical membrane growth, and interaction between ECM and
+apical membrane (Dong and Hayashi 2014). As mentioned earlier, the initial
+deposition of apical membrane components is likely the driving force to begin the
+diametric expansion. Conversely, luminal matrix components play to regulate both
+tube diameter and length (Araújo et al. 2005; Devine et al. 2005; Luschnig et al.
+2006; Moussian et al. 2006; Petkau et al. 2012; Tiklová and Samakovlis 2013b).
+However, the interaction between apical membrane and ECM determines the final
+morphology of biological tubes (Dong, Hannezo, and Hayashi 2014). The
+organization of sub apical βH-Spectrin, which crosslinks the apical cytoskeleton
+and membrane, is disrupted in the absence of chitin, one of the luminal
+components (Tonning et al. 2005). This evidence suggests that signals originating
+from the luminal matrix are likely sensed by epithelial cells to coordinate
+cytoskeletal organization, to regulate tube size in both diameter and length.
+Similar role of luminal matrix in lumen formation is shown in zebrafish (Bagnat et
+al. 2007). In addition to apical membrane and luminal matrix components, apicalbasal
+and planar cell polarity along with endocytic recycling pathways play an
+important role in maintaining proper tube dimensions throughout embryogenesis.
+At mid stage 17, once trachea attains its proper dimensions, the tracheal
+epithelium activates a pulse of endocytic activity to internalize the secreted solid
+matrix and liquid from the lumen. Subsequently, the luminal matrix is cleared
+from the lumen at late stage 17, and the entire trachea is filled with air (Figure 3) 15
+Figure 3. Schematic representation of tracheal maturation. (A) The initially
+narrow trachea needs to expand to attain functional tube dimensions. (B) The
+apical membrane pulse deposits luminal matrix and membrane components
+(shown in solid red lumen) which facilitate the tube diametric expansion. (C)
+Secretion of chitin deacetylases is important to maintain the fibrillar structure (red
+lines) of chitin and to restrict tube elongation. (D) Once tube attains functional
+dimensions, the luminal matrix components are absorbed back by the tracheal cells
+(clear trachea) and (E) air starts filling the lumen.
+(Swanson and Beitel 2006; Tsarouhas et al. 2007). Thus trachea becomes
+functional before the hatching of embryos to form larvae.
+A) Apical secretion
+Apical delivery of membrane and luminal components have vital roles in
+tube size regulation. During apical secretion, the membrane and luminal
+components pass through a series of membrane-enclosed organelles, including
+endoplasmic reticulum (ER), Golgi complex (Golgi), and various secretory
+vesicles before getting delivered to the apical membrane or secreted into the
+lumen. Initially, the nascent polypeptides of the membrane and luminal proteins
+are synthesized on ribosomes and transported into the ER. The signal peptide (SP) 16
+or signal sequence (SS) present on the polypeptides acts as a specific recognition
+sequence and a critical component for targeted ER delivery (Cross et al. 2009;
+Marrichi et al. 2008; Walter and Blobel 1981). While reaching the ER lumen, SS
+is cleaved and protein undergo post-translational modifications and chaperon
+aided folding (Ellgaard and Helenius 2003; Helenius and Aebi 2004; Yeaman et
+al. 1997). Further transport of proteins across the cytoplasm is mediated by
+vesicular intermediates. During vesicular trafficking vesicles bud from one
+compartment and fuse with the target compartment (Mellman and Nelson
+2008). There are mainly three classes of protein complexes that form these
+vesicular intermediates: COPII coated vesicles (coatomer protein complex-II)
+which bud from ER is crucial for ER–Golgi trafficking (Bonifacino and Glick
+2004; Lee et al. 2004); COPI complexes (coatomer protein complex-I) that bud
+from Golgi are crucial for Golgi-ER and intra-Golgi transport (Bonifacino and
+Glick 2004; Jayaram et al. 2008; Rabouille and Klumperman 2005); third type is
+the adaptor protein (AP)-clathrin complex (the AP-clathrin complex) which is
+crucial for transport between the Golgi, plasma membrane and endosomes
+(Schmid 1997; Traub and Kornfeld 1997). Trafficking of vesicles in the cytoplasm
+occurs along actin cytoskeleton. Selective docking and targeted delivery of the
+vesicles to specific membrane compartments of the cell is regulated by organelle
+and tissue specific Rab GTPases, vesicle-tethering complexes and SNAREs
+(Bonifacino and Glick 2004; Grosshans and Novick 2006; Hehnly and Stamnes
+2007; Mellman and Nelson 2008; Rothman 1994). Consistent with these findings, 17
+in Drosophila trachea, mutants disrupting the coat assembly, vesicle budding
+(Förster and Luschnig 2010; Norum et al. 2010; Tsarouhas et al. 2007) and
+vesicular transport (Dong et al. 2013) results in tube size defects. Similar defects
+in other tubular organs such as the salivary gland have also been observed.
+B) Luminal matrix:
+The luminal matrix is composed of chitin, a polysaccharide, chitinmodifying
+proteins (vermiform and serpentine) (Luschnig et al. 2006), structural
+Zona Pellucida domain containing proteins that maintain cell interconnections
+(Piopio and Dumpy) and chitin binding proteins such as gasp and obst-A
+(Jaźwińska and Affolter 2004; Petkau et al. 2012; Tiklová and Samakovlis 2013a).
+These components are synthesized in the tracheal cells and secreted to the lumen
+through different routes. For example, the secretion of chitin modifying enzymes,
+vermiform (verm) and serpentine (serp) to the tracheal lumen depends on baso
+lateral septate junctions (SJ) (Wang et al. 2006). On the other hand, the secretion
+of luminal proteins gasp and Piopio depends on MyoV motor-mediated trafficking
+along the apical actin cable, but not with the involvement of SJ (Massarwa and
+Shilo 2009). Consistent with the role of SJ in apical secretion in the Drosophila
+trachea, lethal giant larvae, one of the SJ protein in Drosophila, interacts with the
+secretory exocyst complex for polarized apical secretion in MDCK cells (Müsch et
+al. 2002). In Drosophila trachea, mutations disrupting chitin biosynthesis
+(krotzkopf verkehrt and mummy/cystic) and matrix assembly (knickkopf and18
+retroactive) form over-dilated and elongated tubes (Araújo et al. 2005; Devine et
+al. 2005; Moussian et al. 2006). Chitin modifications also play an important role in
+tube size regulation. For instance, deacetylation of chitin cable is specifically
+required to restrict tube over-elongation as shown by the elongated tracheal tubes
+in putative chitin deacetylase mutants (verm and serp) (Luschnig et al. 2006).
+However, two other chitin binding proteins gasp and obst-A have partially
+redundant functions in facilitating the diametric expansion (Tiklová and
+Samakovlis 2013b). On the other hand, Pio and Dpy when mutated leads to severe
+disruption of branched patterns of trachea as the mutation abolishes organized cell
+intercalation and elongation (Jaźwińska and Affolter 2003).
+It was recently shown that, in Drosophila hindgut, a glycoprotein named
+Tenectin (Tnc) present in the luminal matrix drive tube diametric expansion (Syed
+et al. 2012). Interestingly, similar to the luminal matrix in invertebrates, human
+endothelial cell capillaries contain a fibrillar luminal matrix. Mature blood vessels
+as well as lung epithelia are also lined with an oligosaccharide-based ‘glycocalyx’
+(Folkman and Haudenschild 1980). Glycocalyx contains glycosaminoglycans
+analogous to chitin and plays an important role in maintaining tube stability
+(Reitsma et al. 2007). Hence it will be interesting to investigate if such matrix
+components have similar mechanisms of tube size regulation as in invertebrates. 19
+C) Endocytosis and Recycling
+Apical secretion pulse deposit massive amount of membrane and luminal
+materials at the beginning of tube expansion. These proteins are constantly
+endocytosed and recycled back (protein turnover) throughout tracheal maturation.
+There needs to be a tight co-ordination between endocytic uptake and recycling in
+order to maintain optimal protein levels in the membrane and the lumen. Previous
+studies show that, cells internalize their cell surface equivalent one to five times
+per hour, suggesting that recycling pathways must be robust and fast-paced in
+order to cope up with the rapid rate of endocytic uptake.(Grant and Donaldson
+2009; Steinman et al. 1983).
+Different routes of endocytosis and recycling have been explained recently
+in different model systems. Accordingly, there are mainly two categories of
+endocytosis, viz. clathrin dependent (CDE) and clathrin independent (CIE)
+(Conner and Schmid 2003; Doherty and McMahon 2009). During clathrinmediated
+endocytosis, specific cargos at the membrane fuse with clathrin-coated
+vesicles (CCVs) (Tsarouhas et al. 2007) . The association of these vesicles with
+the plasma membrane is then cleaved by the GTPase dynamin, followed by fusion
+of the cargos with early endosomes (containing the Rab family GTPase Rab5)
+(Song, Leonard, and Schmid 2004). Even though, CDE is one of the major
+conduits of endocytosis, certain cargos do not contain the sequences to be
+identified and internalized by clathrin coated vesicles. Such cargos are thought to
+be internalized through less well characterized pathways called clathrin 20
+independent endocytosis (CIE). However, recent studies suggest multiple routes of
+CIE depending on the cell types and cargos, (Mayor and Pagano 2007) making
+CIE an intricate recycling system. Some of the CIE pathways are dynamindependent,
+whereas some other occurs in dynamin independent fashion but in
+Cdc42-, Arf1 and actin-dependent mode (Kumari and Mayor 2008). Another
+dynamin-independent mechanism is responsible for endocytosis of many cell
+surface membrane integral proteins and dependent on Arf6 GTPase (Mayor and
+Pagano 2007; Sandvig et al. 2008). Nevertheless, rapid clearance of luminal
+components in Drosophila trachea at stage 17 of embryogenesis is shown to be
+dependent on Rab5, dynamin and clathrin (van der Bliek and Meyerowitz 1991;
+Wucherpfennig and González-Gaitán 2003). This rapid endocytosis is
+indispensable for the proper morphogenesis of trachea. Similar role of Rab5 and
+dynamin in mediating endocytosis during morphogenesis of drosophila
+photoreceptor cells have also been described earlier (Pinal and Pichaud 2011).
+Irrespective of the routes of endocytosis, most of the endocytosed cargos
+are delivered to the early endosomes for sorting or immediately recycled back.
+From the early endosomes, eventually these cargos follow specific routes for
+recycling as revealed by several model systems including Drosophila trachea and
+C. elegans intestine. These recycling pathways include but not limited to; 1)
+Cargos enter the multi vesicular body (MVB) pathway to reach late endosomes
+and later fuse with lysosomes for degradation 2) Some cargos from late
+endosomes recycle back to the cell periphery through Trans Golgi Network (TGN) 21
+in Rab9 dependent manner (Dong et al. 2013). 3) Rab4 and Rab35 dependent
+rapid recycling pathway recycle cargos back to the cell surface directly from early
+endosomes. 3) During slow recycling, both CDE and CIE cargos move from the
+early endosome to late endosomes and then recycle back to the membrane in a
+Rab11 dependent route (Bonifacino and Rojas 2006; Johannes and Popoff 2008).
+Both secretory and recycling vesicles travel along the micro tubules in order to get
+delivered to the apical membrane. At the periphery of the cell, these recycling
+multi complex vesicles break up and the cargos fuse with cell membrane in Arf6,
+Rab11, Par3, Cdc42 and cortical actin dependent mechanism. (Grant and
+Donaldson 2009). Myosin Vb is also a cytoskeletal motor protein that normally
+functions in vesicular transport to the apical membrane in a Rab11 dependent
+fashion in Drosophila (Jin et al. 2011; B. X. Li and Ready 2007; Massarwa and
+Shilo 2009). Asymmetric distribution of docking and membrane fusion machinery
+(SNARE) at the apical and basolateral membranes possibly regulate the polarized
+delivery in epithelial cells (Kreitzer et al. 2003). Such polarized transport of
+proteins are crucial for the proper structure and function of the organs. For
+example, Variant Microvillus Inclusion Disease is an autosomal recessive genetic
+disease in human beings caused by mutation of Syntaxin 3, a gene encodes one of
+the SNARE proteins. Syntaxin3 is important for the apical delivery in intestine.
+This disease is characterized by the inability to deliver proteins to the apical
+plasma membrane of the intestine and results in malabsorption of nutrients from
+the intestine during infancy (Wiegerinck et al. 2014). 22
+Apparently, in Drosophila mutations in genes required for the formation of
+CCV (clathrin heavy chain, dynamin, and a novel gene wurst) and the early
+endosome (rab5) show over-elongated and over- dilated tubes with defective
+apical matrix and apical membrane organization (Tsarouhas et al. 2007; Wingen et
+al. 2009). In addition, in Rab9 mutants, specific luminal matrix protein serp is
+depleted at later stages leading to elongated tubes (Dong et al. 2013; Zuo et al.
+2013). Hence, balanced internalization and recycling of membrane and matrix
+components are critical for tube-size regulation. Interestingly, wurst protein is
+evolutionally conserved and exhibit a single ortholog in human beings (Wingen et
+al. 2009). This indicates a possible putative role of wurst ortholog and other
+endocytic pathway components in clinically relevant endocytic defects, such as
+neonatal respiratory distress syndrome. With this background it is wise to
+anticipate that besides the early secretion pulse, the later steps of endocytosis and
+recycling also play critical role in tube-size regulation by maintaining specific
+luminal and membrane proteins during tube maturation. In short, when the apical
+secretion pathway is required for apical membrane expansion and matrix
+formation during tube dilation, the endocytic recycling pathway retains proper
+levels of membrane and matrix components to maintain apical membrane size and
+luminal matrix components. Therefore, the proper balance between secretion
+internalization and recycling is critical to control tube-size. Even though, pathways
+of endocytic recycling have been studied elaborately in other model systems, in
+Drosophila trachea such mechanisms are largely unknown. 23
+D) Apico-basal polarity
+Epithelial tubes are generally made up of polarized epithelial cells. Tracheal
+cells in Drosophila acquire cell polarity even before tracheal cell specification.
+Cell polarity plays a critical role in tube-size regulation in Drosophila trachea. In
+both invertebrate as well as vertebrate epithelial cells, apical and basal polarity is
+attained through differential distribution of polarity proteins (Fig. 3). In
+Drosophila trachea the apical domain contains the Crumbs complex and the Par
+complex. The Crumbs complex contains the apical transmembrane protein
+Crumbs, which interacts and forms a complex with Stardust (Pals1 in vertebrates),
+Patj, Lin7, dmoesin (ezrin, radixin and moesin in vertebrates) and Yurt. The Par
+complex contains atypical protein kinase C, its regulator subunit Par6, the small
+GTPase Cdc42, and the scaffolding protein Bazooka (Par3 in vertebrates). In
+Drosophila trachea, adherens junction separates apical membrane domains from
+the basolateral membrane domains by forming a belt around apical pole of
+epithelial cells. Two major components of AJ include armadillo (β-catenin in
+vertebrates) and DE-cadherin (Oda et al. 1994). The basolateral domain contains
+the septate junction (SJ) which is analogous to the vertebrate tight junction (TJ)
+and forms a diffusion barrier to prevent the leakage of solutes across epithelia
+(Tepass et al. 2001). SJ is formed of polarity proteins such as Sinuous ,
+Megatrachea, Kune-kune, Lethal giant larvae, Discs large, Scribble, Yurt, Coracle,
+Na+/K+-ATPase, Neurexin IV, Lachesin, and Varicose (Baumgartner et al. 1996; 24
+Behr and Schuh 2003; Hough et al. 1997; Laprise et al. 2010; Marta Llimargas et
+al. 2004; Müsch et al. 2002; Nelson and Beitel 2010; Padash-Barmchi et al. 2013;
+Paul and Beitel 2007; Swanson et al. 2009; Wu et al. 2004a, 2004b, 2007;
+Yamanaka et al. 2006). Sinuous, Megatrachea, and Kune-kune are homologs of
+vertebrate Claudins (Laprise and Tepass 2011; Swanson and Beitel 2006; Wu and
+Beitel 2004).
+Figure 4. Distribution of apicobasal polarity proteins. Subapical complex in the
+tracheal cells include Moesin, Crb, Sdt, Patj, Lin7, Yurt, PKC, Cdc42 and Baz.
+DE-Cad and Armadillo forms the AJ. SJ is formed of Sinuous, Megatrachea,
+Kune-kune, Lgl, Dlg, Scrib, Na
++
+ K+
+ ATPase, Neurexin IV, Lachesin, Vari, Yurt
+and Coracle. Proper distribution of these proteins are important for maintaining
+cell polarity. 25
+Similar to the ECM and apical membrane components, the establishment
+and maintenance of apical-basal polarity proteins depends on general secretion
+pathway and endocytic recycling pathway. Polarity proteins control the tracheal
+dimensions either by governing the secretion of ECM components verm and serp
+or by regulating the apical membrane components. Loss of function mutations in
+most SJ components, except Yurt, scribble and Coracle, lead to tube overelongation
+by affecting the secretion of chitin modifying enzymes (vermiform and
+serpentine) (Wu et al. 2004,Moyer and Jacobs 2008,Paul et al. 2003,Llimargas et
+al. 2004,Behr et al. 2003). However, Yurt and Coracle, controls tracheal length by
+regulating the apical membrane protein Crumbs (Laprise et al. 2010. (Fig. 3).
+However, increasing recent evidences suggest that SJ might also participate in the
+secretion of apically secreted proteins through a mechanism which is still
+unknown.
+E) Planar cell polarity
+Planar cell polarity (PCP), which is orthogonal to the axis of apical-basal
+polarity, also play a role in tube size regulation. Key PCP pathway components
+include: a seven-pass transmembrane receptor, Frizzled (Fz); an adaptor protein
+which acts downstream to Fz, Dishevelled (Dsh); a cadherin family member,
+Flamingo/Starry night (Fmi/Stan); a four-pass transmembrane protein,
+Strabismus/Van Gogh (Stbm/Vang); and cytoplasmic proteins associated with the 26
+apical membrane during PCP mediated signaling, Prickle (Pk) and Diego (Dgo)
+(Adler 2002; Bastock and Strutt 2007; Klein and Mlodzik 2005; Seifert and
+Mlodzik 2007; D. Strutt 2003). The Fz-pathway is conserved between Drosophila
+and humans and contribute to develop appropriate polarity in neighboring cells
+through cell-cell interactions. First evidence for the role of PCP in regulating
+tracheal dimensions came from mutation in Serrano (Sano), a protein that directly
+binds to Dsh. Sano mutants exhibited an elongated tracheal DT, whereas overexpression
+of Sano in trachea resulted in a shortened DT (Chung et al. 2009).
+Furthermore, null mutants of other core PCP genes, fz, dsh and fmi, also show
+elongated tubes (Chung et al. 2009). PCP signaling has been implicated in
+directing cell morphology, partially through RhoA (D. I. Strutt and Mlodzik
+1997). Consistently, RhoA mutants also show elongated tubes (Chung et al. 2009).
+This might indicate a potential, RhoA dependent role of PCP signaling in
+regulating the cytoskeleton in Drosophila trachea. However, the mechanisms of
+PCP proteins in tracheal tube-size regulation are yet to be determined.
+F) Apical Cytoskeleton
+Microtubules and actin cytoskeleton plays important roles in tube size
+regulation. Presence of dense distribution of F-actin at the apical membrane is a
+unifying feature of the cells comprising tubular structures. In Drosophila trachea,
+actin partake in tube size regulation mainly through two distinct mechanisms; 1)
+by providing a track for the myosin motor proteins to carry vesicles containing 27
+cargos, 2) actin polymerization itself is required for the apical delivery and
+secretion of proteins to the ECM. In epithelial tubes such as Drosophila salivary
+gland, trachea, hindgut, and Malpighian tubules, the Formin-Family Protein
+Diaphanous (Dia) dependent F-actin formation at the cell cortex is required for the
+secretion of luminal proteins through the apical membrane (Massarwa and Shilo
+2009). Various studies revealed that localized F-actin morphogenesis is a key step
+during membrane endocytosis as well (Engqvist-Goldstein and Drubin 2003;
+Smythe and Ayscough 2006). Likewise, the unconventional myosin motor Myosin
+V is important for polarized secretion of proteins (Reck-Peterson et al. 2000). In
+Drosophila MyoV family is represented by a single gene, myoV (didum) which is
+ubiquitously expressed throughout all the developmental stages. Obliterated apical
+targeting of secreted proteins were observed in MyoV mutant MDCK cells,
+melanocytes and budding yeast (B. X. Li, Satoh, and Ready 2007b). However
+basolateral targeting of proteins were not affected in MyoV mutants. Furthermore,
+apical secretion of luminal proteins gasp and Pio were completely abolished in
+MyoV defective Drosophila trachea. Interestingly, many of the Rab11 loss of
+function phenotypes is analogous to MyoV mutation. Additionally, yeast two
+hybrid screens revealed a direct interaction of Rab11 with MyoV, specifically to
+the 60KD MyoVb tail (Lapierre et al. 2001). Consistent with this finding, genetic
+interaction between Myo2p, a class V Myosin with Sec4, a Rab protein in yeast
+was observed in Saccharomyces cerevisiae (Schott 1999). 28
+Furthermore, Rab11 also has been shown to interact with class I Rab11-
+FIPs (Rytis Prekeris 2003). Drosophila contains a single class I FIP, dRip11 (R
+Prekeris and Scheller 2000). Both Rab11 and Rip11 are located at the apical
+plasma membrane and subapical recycling endosomes (ARE). It was proposed that
+dRip11 and Rab11 along with MyoV form a ternary complex and involve in
+protein trafficking from ARE to the apical plasma membrane, along polarized
+actin filaments (B. X. Li and Ready 2007b; R Prekeris and Scheller 2000). Rab11-
+MyoV-FIP1 complex not only involve in endocytic recycling but also for the
+apical delivery of proteins emanating from the trans Golgi network (Satoh et al.
+2005).
+In addition to the proteins involved in apical delivery, other actin binding
+proteins such as ERM family members also participate in tube size regulation.
+ERM proteins are activated upon phosphorylation and impart structural rigidity to
+the epithelial tubes by cross linking actin cytoskeleton with the plasma membrane
+(Karagiosis and Ready 2004; Kunda et al. 2008). Consequently, suboptimal levels
+of p-Moesin at the apical membrane of tracheal DT and salivary gland leads to
+elongated tubes (Cheshire et al. 2008). Drosophila encompass only one, highly
+conserved ERM family member, Moesin which localizes predominantly to the
+apical membrane of the epithelial cells. However vertebrate ERM proteins
+comprise ezrin, radixin and moesin. As augmented Moesin activity correlates with
+cortical stiffness, Moesin phosphorylation should be tightly regulated to normalize
+epithelial tube size. This regulatory inputs include kinases and phosphatases. The 29
+apical polarity protein Crumbs and the Synaptotagmin-Like-Protein family
+member Bitesize (Btsz) have been shown to regulate the recruitment of Moesin to
+the apical complex (Médina et al. 2002; Pilot et al. 2006). Sterile-20 like kinase
+Slik, is a kinase distributed at the apical membrane of cells similar to p-Moesin,
+and shown to be responsible for the phosphorylation of Moesin in imaginal discs,
+S2 cells and Drosophila trachea (Hipfner and Cohen 2004; Ukken et al. 2014a).
+However, Breathless, an FGF receptor activates Moesin only at the terminal cells
+of tracheal cells through a mechanism independent of canonical MAPK pathway
+(Ukken et al. 2014b).
+Several other kinases responsible for Moesin phosphorylation were
+explained recently, out of which Rho kinase (Rok) have been studied elaborately
+in both vertebrates and invertebrates. Rok is one of the downstream effectors of
+Rho1 (RhoA in mammals). RhoA has shown to regulate actin cytoskeleton by
+activating or phosphorylating Moein in mammalian cell lines (Matsui et al. 1998;
+Shaw et al. 1998). Even though, in Drosophila salivary gland, Rho1 negatively
+regulates Moesin phosphorylation during morphogenesis (Xu et al. 2011),
+depletion of Rho1 activity in S2 cells moderately reduce Moesin phosphorylation
+(Hipfner and Cohen 2004). Remarkably, there has been evidence describing the
+existence of a negative feedback loop between Moesin activation and the activity
+of Rho pathway (Speck et al. 2003). Similarly slik mutants also exhibit an
+enhanced Rho1 activity (Hipfner and Cohen 2004). These observations suggest
+that, regulation of Moesin activity by Rho1 is organ specific. 30
+CHAPTER TWO
+METHODS
+Fly strains
+The control strain used for the experiments is W
+1118. UAS-HA-Dmo, UASHA-dRip
+and Dmo
+∆64
+, Dmo
+∆86, Btl-Gal4/Cyo-GFP were generated in our lab.
+Flies used for genetic interaction experiments were obtained from Bloomington
+stock center which include; UAS-EGFRElp
+, UAS-EGFR-DN, UAS-Ph1-CA, UASRho1V14,
+UAS-Rho1N19, UAS-Rac1V12, UAS-Rac1N17, UAS-Cdc42V12, UASCdc42N17.
+UAS-Btl-DN, UAS-λBtl and Btl-Gal4 flies were generously provided
+by Dr. M. Krasnow (Stanford University, Stanford, CA,USA). Other fly strains
+used include, Btl-mCD8-GFP (Bloomington stock center), MyoV/Cyo-GFP (gift
+from Dr. Ready, Department of Biological Sciences, Purdue University, USA),
+UAS-Rab11-YFP (Bloomington stock center), UAS-Rab11DN (Bloomington stock
+center), UAS-Moesin RNAi (gift from Dr. Richard Fehon, University of Chicago,
+USA) Balancer flies (Bloomington stock center), slik1
+ mutant (gift from Dr. David
+Hipfner, Department of Medicine, University of Montreal, Canada), obstA
+d02/GFP ( gift from Dr. Matthias Behr, University of Leipzig, Germany). 31
+Antibodies used for immunostaining
+The chitin binding probe was prepared in our laboratory. For this 6xHisSNAP-CBD
+containing plasmid, pYZ205 (NEB) carrying ampicillin‐resistant
+gene was transformed to E.coli strain with T7 RNA polymerase. 6xHis-SNAPCBD
+expression was induced using 1mM IPTG and purified by affinity
+chromatography using Nickel resin. To the purified chitin binding probe with
+SNAP tag, SNAP‐surface Alexa Fluor 488 (NEB, cat# S9129S) was added and
+incubated for 1 hr at 37 °C. The fluorophore labelled probe was then dialyzed
+overnight in 1XPBS containing 1mM DTT to remove unreacted substrates. The
+labeled probe was stored at -20 °C in 50% glycerol. For the F-actin
+immunostaining, Alexa Fluor 594 phalloidin (red fluorescent), a high-affinity
+filamentous actin (F-actin) probe (life technologies) was utilized.
+List of primary antibodies used for immunostaining and their respective
+method of fixation and antibody dilutions are given in the table below (Table 1).
+The following secondary antibodies were used for immunostaining: (1)
+AlexaFluor 488 anti-chicken IgG, anti-rat IgG, anti-mouse IgG, anti-rabbit IgG,
+anti-guinea pig IgG; (2) AlexaFluor 543 anti-rat IgG, anti-rabbit IgG, anti-guinea
+pig IgG, anti-mouse IgG; (3) AlexaFluor 594/546 anti-mouse IgM; (4) AlexaFluor
+647 anti-rat IgG, anti-mouse IgG, anti-rabbit IgG, anti-guinea pig IgG
+(Invitrogen) and anti-chicken IgY-488 (life technologies). 32
+Table 1
+Primary antibodies, method of fixation and antibody dilutions used for
+immunohistochemistry
+Primary
+Antibody
+Fixation
+method
+Dilution Reference/
+Source
+Ck-GFP Formaldehyde 1:200 Abcam
+Gp-uif Formaldehyde 1:500 Ward et al. 2009
+M-crb Formaldehyde 1:2 DSHB
+Rat-Trh Formaldehyde 1:100 Crews et al. 1998
+M-gasp(IgM) Formaldehyde 1:5 DSHB
+Rb-obst-A Formaldehyde 1:200 Behr et al. 2012
+Rb-Total Moe P-formaldehyde 1:100 Francois Payre et al. 2005
+Rb-pMoe P-formaldehyde 1:200 Francois Payre et al. 2005
+Ck-GFP(IgY) Formaldehyde 1:100 Invitrogen
+Rat-DE-Cad P-formaldehyde 1:50 DSHB
+Gp-Cora Formaldehyde 1:100 Lamb et al. 1998
+Rb-Pio Formaldehyde 1:100 Beitel et al. 2005
+Rb-Rab11 Formaldehyde 1:100 Hayashi et al. 2013
+Rb-verm Formaldehyde 1:100 Luschnig et al. 2006
+Rb-serp Formaldehyde 1:100 Luschnig et al. 2006
+Rb-HA Formaldehyde 1:100 Invitrogen
+Rb-Sinu Formaldehyde 1:200 Greg Beitel et al. 2004
+Rat-Vari Formaldehyde 1:200 Greg Beitel et al. 2007
+Rb-Kune kune Formaldehyde 1:200 Greg Beitel e al. 2010
+Gp-Yurt Heat fixation 1:50 Tepass U et al. 2009
+M-FasIII Formaldehyde 1:50 DSHB
+M-DLG Formaldehyde 1:1 DSHB
+Gp-Slik Heat fixation 1:50 David Hifner et al. 2004
+Rb-Nrv2.1 Formaldehyde 1:200 Greg Beitel et al. 2007
+M-Spectrin Formaldehyde 1:20 DSHB 33
+Invitro transcription and generation of dig labelled Dmo RNA probe
+Dysmorphic RNA probe was generated through invitro transcription. PCR
+amplification of Dmo cDNA cloned into the pFlc-1 vector was carried out using
+the SK-30 (5′ GGG-TAA-CGC-CAG-GGT-TTT-CC 3′) and SK-Met (5′ ATGACC-ATG-ATT-ACG-CCA-AGC
+3′) primers. To generate antisense dig- RNA
+probe for the cloned cDNA, 50µl of PCR product was ethanol precipitated,
+resuspended in DEPC-treated H2O, and transcribed using T3 (Promega)
+polymerase. The reactions was performed at 37°C for 3hr and contained the
+following: 1× transcription buffer, 10mM DTT, 1× nucleotide labeling mix
+(Roche) containing dig-UTP, 20 units RNasin (Promega), and 8 units of RNA
+polymerase in a 10µl final volume. RNA probes were DNase-treated with 1µl of
+RQ1 DNase (Promega) for 30 min at 37°C. Probes are ethanol precipitated and are
+resuspended in 100µl of probe resuspension buffer (50% formamide, 5mM Tris–
+HCl pH 7.5, 0.5 mM EDTA and 0.01% Tween-20).
+Fluorescence in situ hybridization
+Approximately 500 Btl-mCD8-GFP embryos (encompassing stages 12–17)
+were hybridized with the Dmo RNA probe. Probe was diluted 1:100 in
+hybridization buffer (50% glycerol, 4× SSC, 5% dextran sulfate, 0.01% Tween-
+20) and hybridization was performed in a total volume of 100µl at 55°C overnight.
+Hybridized embryos were blocked in 0.5% blocking buffer (Perkin Elmer) and 34
+incubated in anti-dig-POD antibody (Roche) diluted 1:50 in 0.5% blocking buffer
+for 1 hr. Following three 10 min PT (1× PBS, 0.1% Tween-20) washes, embryos
+were incubated for 2 hr in TSA-Cy3 diluted in amplification diluent (Perkin
+Elmer). TSA reactions were stopped by three PT washes. Fluorescent RNA probe
+development was followed by immuno-staining. The 1° antibodies rat-α-Trh and
+ck-α-GFP at 1:100 dilution and secondary antibodies α-ck-488 and α-Rat-647 at
+1:100 dilution were used for the immunolabeling of tracheal membrane and
+nucleus.
+Embryo fixation
+Embryos were fixed in different fixatives such as formaldehyde,
+paraformaldehyde or by heat fixation depending on the antibodies used for
+immuno staining. Distinct fixation method was adopted for Phalloidin staining.
+Before fixation the embryos were dechorionated in 50% bleach in water (Clorox –
+regular bleach) for 5min and washed thoroughly with water.
+A) Formaldehyde fixation: After dechorionation the embryos were fixed
+using 4% formaldehyde in 1X PBS and heptane (1:1) for 20-30 minutes. Embryos
+were then devitalized by vigorously shaking in 1:1 methanol and heptane and
+washed in methanol 3 times. Embryos were stored in -200C until used for
+immuno-staining. 35
+B) Paraformaldehyde fixation: Dechorionated embryos were fixed in 4%
+paraformaldehyde in 1X PBS and heptane (1:1) for 10-20 minutes followed by
+devitalization of embryos by vigorously shaking in 1:1 80% ethanol and heptane
+mixture. Embryos were then washed in 100% ethanol 3 times and stored in 100%
+ethanol at -200C degree until used for immuno-staining.
+C) Heat fixation: Dechorionated embryos were rinsed thoroughly with
+water. 10ml boiling hot Triton X100 salt solution (TSS: 70mM NaCl and 0.03%
+TritonX100) was added to the embryos in a glass scintillation vial. Embryos were
+swirled for 15 sec. 10ml ice cold TSS solution was added to the embryos and
+incubated for 20 min on ice. The solution was removed and the embryos were
+treated with 50% methanol in heptane. After vigorous shaking the embryos were
+collected from the bottom of the vial and washed in methanol 3 times. Embryos
+were stored at -200C for atleast 2 days before using for immunostaining.
+D) Fixation for phalloidin staining: Fix solution was prepared two days
+prior to fixation using 37% formaldehyde and heptane (1:1) with periodic shaking
+to mix contents. While fixing, dechorionated embryos were incubated for 30 min
+in heptane saturated with formaldehyde (upper layer). After the incubation,
+embryos were transferred to a scintillation vial containing 100% heptane and kept
+overnight at -200C. Embryos were then transferred to a standard tape slide
+allowing the embryos to stick to the tape. To prevent dehydration of embryos 1X
+PBS was added and then vitelline membrane was removed using a scalpel. 36
+Devitalized embryos were transferred to fresh PBT and proceeded to
+immunostaining.
+Immunohistochemistry
+A) Regular staining: Embryos were subjected to immuno staining soon
+after or a few days after fixation. For the regular immunostaining embryos were
+washed in PT (1xPBS, 0.1% Triton X-100) 3x 10min, and blocked in PBT-NGS
+(1xPBS, 0.1% BSA, 0.1% Triton X-100, 5% Normal Goat Serum (NGS) for
+30min. Embryos were incubated in 1° antibody diluted in PBT-NGS overnight at
+4°C, washed 3x 10min, then 3x 20min in PBT, and blocked for 30min in PBTNGS.
+Embryos were then incubated in 2° antibody diluted in PBT-NGS (1:100)
+for 2 hr at room temperature, washed 3x 10min and 3x 20min in PBT. Embryos
+mounted in 100% glycerol were imaged using a Nikon Eclipse Ti confocal
+microscope.
+B) Tyramide Signal Amplification (TSA) immunostaining: Fixed embryos
+were washed in PT (1xPBS, 0.1% Trition X-100) 3x 10min, blocked in PBT-NGS
+(1xPBS, 0.1% BSA, 0.1% Trition X-100, 5% Normal Goat Serum (NGS) for
+30min. Embryos were incubated in 1° antibody diluted in PBT-NGS overnight at
+4°C, washed 3x 10 min, then 3x 20 min in PBT, blocked for 30min in PBT-NGS.
+Embryos were then incubated in Biotin labelled 2° antibody (Vector laboratories)
+diluted in PBT-NGS (1:300) for 1hr at room temperature, washed 3x 10 min, and
+3x 20 min in PBT. Embryos were incubated in streptavidin conjugated HRP 37
+(Perkin Elmer) diluted in 1X PBT (1:100), washed 3x 5min, then 3x 10min in
+PBT. Treated with TSA fluorescein (TSA cyanine 3/TSA cyanine 5/ TSA
+fluorescein; 1:50 dilution in amplification diluent) for 10 min in dark, washed
+3x10 min, then 3x20 min in PBT. Embryos were mounted in 100% glycerol and
+images were obtained using a Nikon Eclipse Ti confocal microscope.
+cDNA synthesis and sequencing
+To generate dysmorphic cDNA, total RNA was extracted from the embryos
+using RNAeasy Mini Kit (Qiagen). Oligotex (Qiagen) was utilized to extract Poly
+(A) +
+mRNA from total RNA using oligo dT primers. First stand cDNA was
+synthesized using SuperScript® reverse transcriptase (Gibco-BRL). RNase H and
+DNA polymerase executed the second strand synthesis. Forward and reverse
+primers specific to dysmorphic was utilized for the amplification of cDNA
+through PCR. Primer sequence required /amplified fragment size, The cDNA was
+then cloned to pCR2.1 TOPO vector (Invitrogen) transformed to DH5α E.Coli
+cells, plasmid was isolated using plasmid midi kit(100) (Qiagen) and sequenced
+(Research technology support facility, Michigan state university, E. Lansing). 38
+Transgenesis
+UAS-HA-Dmo and UAS-HA-dRip flies were generated through transgenic
+technology. In order to generate these flies Dmo and dRip cDNA fragments
+without ATG start codon were PCR amplified and cloned into pCR8/GW/TOPO
+(Invitrogen) vector. The cloned plasmid was then transformed to DH5α competent
+cells. Plasmid purification was performed using Plasmid miniprep kit (Qiagen).
+Plasmid was digested using RESTRICTION ENZYMES and the digested product
+was run on an agarose gel to separate the fragments. The insert was purified from
+the gel using QIAquick Gel Extraction Kit (Qiagen) and cloned to pAHW, an HA
+tag containing Gateway compatible vector (http://www.ciwemb.edu/labs/murphy),
+using gateway LR Clonase II plus (Invitrogen) HA-Dmo and HA-dRip were then
+PCR amplified and cloned back to pCR8/GW/TOPO. The following primers were
+used for PCR: Forward : and Reverse: . The plasmid was then transformed to
+DH5α, purified and the insert was cloned into P-element vector pT, another
+Drosophila Gateway compatible vector containing an upstream UAS sequence,
+using Gateway LR Clonase II. The transgenes, UAS-HA-Dmo and UAS-HA-dRip
+were then introduced into the Drosophila germline through microinjection.
+Chromosome location of the transgene was also determined.
+Confocal microscopy and Morphometric analysis
+Followed by immunostaining, embryos were mounted in 100% glycerol.
+Stage14 to Stage16 embryos were imaged using Nikon Eclipse Ti confocal 39
+microscope. Z-stack projections were acquired using EZ-Z1 program and the
+obtained optical sections were merged using Nikon NLS Elements program.
+Comparison of protein distribution between different embryos was done by fixing
+the laser gain and intensity at specific points.
+The DT length and diameter were determined by measuring the apical
+membrane labelled with uif using NIS Elements program. We used at least 6 each
+embryos of wild type and Dmo mutants at each stages from 14 to 16. Results are
+represented in bar graphs as the mean ± standard deviation. Both the diameter and
+length were measured for each metameres separately from 4th (anterior) to 8th
+(posterior) tracheal segments. Tube length was estimated by tracing the apical
+localization of the uif along each segment. For the diametric measurement the
+lowest, median and highest measurements of each metameres were taken. The DT
+length and diameter were expressed as the mean plus standard deviation (SD).
+Statistical significance was analyzed using student’s t-test.
+Protein purification and antibody production
+A polyclonal antibody was generated against Dmo. For this, Dmo fragment
+corresponding to amino acids 233-333 was PCR amplified using Dmo cDNA as
+template. Primers used for PCR include, forward primer having Pst1 restriction
+site; 5’-CTGCAGCAAACGATTCCCAAGTCACTG-3’ (Pst1 restriction site is
+underlined) and reverse primer having EcoR1restriction site; 5’-40
+GAATTCTTACTGCGACCCGCTGCTCTT-3’ (EcoR1 restriction site is
+underlined). Both amplified Dmo fragment and hexa histidine-tag containing
+pTrcHisC vector (Invitrogen) was then digested using Pst1 and EcoR1 restriction
+enzymes at 370C for 2hrs, separated on 1% agarose gel and gel purified (Qiaquick
+Gel Extraction Kit), recombined using T7 ligase (NEB). The purified recombinant
+DNA was transformed to BL21DE3 expression cells. Single colony was then
+cultured O/N, expression of 6X His tagged Dmo protein fragment was induced by
+the addition of 1mM IPTG at 180C for 2 hr, centrifuged to collect pellet, sonicated
+the cells in lysis buffer (300mM NaH2PO4, 10mM imidazole, 1mM DTT, 1mg/ml
+Lysozyme, protease inhibitor cocktail, 0.1% NP40, 15% Glycerol), lysate was
+incubated with Ni-NTA resin (Biorad) O/N, packed in a column, washed with
+50ml wash buffer ( 50mM NaH2PO4, 300mM NaCl, 20mM imidazole, 1mM
+DTT) and eluted the protein using high imidazole containing elution buffer
+(50mM NaH2PO4, 300mM NaCl, 500mM imidazole, 1mM DTT). The eluted
+His6-Dmo protein was dialyzed in two changes of 1X PBS containing 0.01% DTT.
+Two rats were then immunized by subcutaneous injection of the protein (PoconoRabbit
+Farm & Laboratory) to generate antibody.
+P-element imprecise excision
+To generate deletion mutant of Dmo, approximately 100
+P{GawB}MCPH1NP6229 virgin females were crossed to about 100 jump starter yw; 41
+P[w+ ; ∆2-3] males. The resultant male progenies (about 200) w; P{GawB}
+MCPH1NP6229 / P[w+ ; ∆2-3] were then mated with yw; Pin/Cyo virgin females
+(about 200). Single crosses of the resulting white- eyed males were performed
+with w; Pin/Cyo P [w+
+; twi-GFP] females. Likewise, approximately 500 single
+crosses were established. PCR analysis of the GFP –ve F3 embryos were carried
+out using Dmo exon1 specific primers. After the screening of all 500 crosses, two
+Dmo mutants were isolated: Dmo
+64 and Dmo
+86. Exact break point of the mutants
+were analyzed using different exon and intron specific PCRs and confirmed
+through sequencing.
+Co-immunoprecipitation
+Wild type and UAS-HA-Dmo embryos were used to perform coimmunoprecipitation.
+Embryos were dechorionated in bleach for 3min, washed
+thoroughly in water and approximately 200μl embryos were transferred to a 1.5ml
+eppendorf tube containing PT (1xPBS, 0.1% Trition X-100). 600μl lysis buffer
+(50mM Hepes KOH pH 7.5, 50mM Tris-HCl pH 7.2, 150mM NaCl, 0.03% Np40,
+0.005% SDC, 1mM PMSF, 1tablet protease inhibitor (Rosche), 50% Glycerol and
+made the total volume to 10ml using ddH2O) was added to the embryos and left
+on ice for 20 min. Embryos were then sonicated 4X 10 sec with 1 min gap, spun
+maximum speed for 5 min at 40C centrifuge, removed the upper fatty layer and
+collected the supernatant. Protein concentration was measured using Bradford 42
+assay, equalized the concentration of both wild type and UAS-HA-Dmo samples.
+Meanwhile HA beads (Sigma) were washed in BSA/lysis (1μl 10XBSA in 5ml
+lysis buffer) 2X 5 min at 40C and blocked in BSA/lysis for 30 min. After blocking
+150μl BSA/lysis was added to the beads and split the beads equally in two
+different tubes. Equal amounts of wild type and UAS-HA-Dmo lysate were added
+to the beads along with 100μl each binding buffer (200mM Hepes KOH pH 7.5,
+800mM KOAc, 54mM Mg (OA)2, 0.1% Np40 100% , 40% Glycerol, 5mM
+PMSF, 1/4th tablet protease inhibitor (Rosche) and make up the volume to 1ml
+using ddH2O) and incubated O/N at 40C. Next day, the beads were spun down at
+2500rpm for 1 min, removed supernatant and washed beads in wash buffer1
+(10mM Tris-HCl pH 7.2 and 0.01% Np40) 2X 1min and wash buffer2 (10mM
+Tris-HCl pH 7.2 , 0.01% Np40 and 60mM NaCl) 2X 1min on ice. Removed the
+supernatant and eluted the protein in 100μl sample buffer and proceeded to
+western blot using protein specific antibodies.
+Western blot analysis
+Laemmli Sample Buffer (2x) containg β-mercaptoethanol (Bio-rad) was
+added to the protein lysate in 1:1 dilution, boiled for 10 min at 950C, centrifuged at
+12K rpm for 5 min. Samples were loaded on to 10% polyacrylamide gel along
+with Precision Plus Protein Dual Color Standard (Bio-rad). After SDS-PAGE,
+protein was transferred to Nitrocellulose Membrane (Bio-rad) and subjected to 43
+immunoblotting using specific antibodies. Primary antibodies used include; anti
+HA 3F10 (1:7000) (Rosche), Rb-obst-A (1:1000) (gift from Dr. Behr, University
+of Leipzig, Germany), Rb-Rab11 (1:1000) (gift from Dr. Hayashi, Kobe
+University Graduate School of Science, Japan), Rb-MyoV (1:2000) (gift from Dr.
+Ready, Purdue University, USA), Rb-verm and Rb- serp (1:2000) (gift from
+Luschnig, University of Zurich, Switzerland) Mouse-gasp (1:500) (DSHB)
+(Mouse-actin (1:2000) (EMD Millipore) The following secondary antibodies
+were used; anti-Rb-HRP (1:2000) (chemicon), anti-mouse-HRP (1:2000)
+(chemicon). The blot was then developed using Western Lightning™ Protein
+Detection Reagents (PerkinElmer).
+CHAPTER THREE
+RESULTS
+Berkeley Drosophila Genome Project (BDGP) which is a consortium of the
+Drosophila Genome Center provides information about the predicted genes and
+DNA sequence along with the expression pattern in Drosophila melanogaster44
+(insitu.fruitfly.org). CG13183 (CG refers to computed gene; the unique CG
+numbers are often used to denote the unnamed genes) is originally predicted as a
+gene located on the 2nd chromosome in the fly genome. CG13183 was later
+named as Dysmorphic (Dmo) by our lab ascribing to the tracheal phenotype shown
+by its loss of function mutation. Gene expression database shows that, Dmo is
+expressed mainly in trachea, hypopharynx and epidermis of the fly embryos
+(insitufruitfly.org). In order to confirm the expression of Dmo in trachea, I
+performed Fluorescent insitu hybridization (FISH) using fluorescently labeled digRNA
+probe specific to Dmo transcript. FISH shows that the gene is expressed
+mainly in the dorsal trunk (DT) cells and at the proximal part of the transverse
+connective (TC) of the trachea with a minimal expression in unicellular branches
+such as Lateral Trunk (LT), Ganglionic Branch (GB), Visceral Branch (VB) and
+Dorsal Branch (DB). This gene expression pattern is consistent with the gene
+expression database. Dmo expression begins at stage13 of embryogenesis and
+continue throughout embryogenesis till stage17. However there is an upregulation
+of Dmo expression in the tracheal fusion cells at early stages (stage 13 through 15)
+compared to rest of the multicellular tracheal cells. At stages16 through 17, all
+tracheal cells in the multicellular tubes exhibit similar level of expression. Dmo is
+located at 48C5-48D2 on the 2nd chromosome in the fly genome with specific
+sequence location 2R:11,904,323...11,912,779 (flybase.org). 45
+Figure 5. Fluorescent in situ hybridization of Dmo. RNA expression of Dmo (red)
+is shown for stage 14 (S14) (A & YZ[ ) and Stage 15 (S15) (B & \Z[ ) embryos.
+Panel A and B represents the merged picture of Dmo RNA (red) along with
+mCD8-GFP protein (green)]Z^YZ[Z_Z\Z[ ) mCD8-GFP labels the tracheal cell
+membrane (green) of all tracheal branches]Z^YZ[Z_Z\Z[ ) Dmo RNA distribution
+indicates that the gene is expressed mainly in the tracheal dorsal trunk (DT) and
+transverse connective (TC) with minimal expression in unicellular and subcellular
+branches.
+The predicted DNA sequence of a gene may not always be accurate. Hence
+I isolated the embryonic genomic RNA of W1118 (wild type) flies and performed a
+reverse transcriptase PCR using gene specific and oligo dT primers. Further
+sequencing of the cDNA obtained showed two different splice variants of Dmo,
+unlike the single predicted transcript. The difference between the two splice
+variants lies in the insertion of about 113 nucleotides in transcript B between
+nucleotide position 919 and 1033 of transcript A.46
+Sequence analysis of the coding region also indicates the presence of an
+evolutionary conserved MH2 domain of Smad proteins. Smad proteins are
+generally 400 – 500 amino acids long and have highly conserved N- terminal
+MH1 (Mad homology1) and C- terminal MH2 (Mad homology domain 2)
+domains (Heldinet al.1997). The MH2 domain is the protein–protein interacting
+domain and MH1, the DNA binding domain. Dmo protein is 431 amino acids long
+which is typical of smad proteins. However, the protein lacks highly conserved
+MH1 domain of typical smads. Phylogenetic analysis of MH2 domain of the
+protein indicates that Dmo is closely related to Drosophila Expansion protein, the
+C. elegans protein C34E11.2c and distantly related to one of the uncharacterized
+human protein Hum-BAH12971.
+Protein sequence – (with MH2 domain labelled 54-217 in red color)
+MISRRKIISRSLDNLDAIGQEEQEEDVWHDREKLFRDHINEVLSKWEQIDD
+EIWAKIIVFEKNRRVAKAYARSSVITINGSKNGFDGVRIGLNGFDNPMRDA
+ETKVIKKSIGDGFKIKMDDTGNIFIKRYGKSSIYVNSTSQGNEETVIGGDIIQ
+MPQMSLTAATSARLFDMKKFQTNINREFARTYPERGRLERQCLSAVSLVK
+SNNNLINSPVWILVVNVVAMDMLRSRLQTIPKSLDAMGMRVPLTNSSEDP
+YSTIESQVGLIYPTPAASDDSQNSQHSSNSSKGRRSIFSAAFLNEGPYVPKP
+DYESGGSLTPIYADKKRQKSSGSQQRKKQDDPYYCGLLARIPNFIKSSKQP
+CPGGASKPKKEPKISRKISAQHQQQQFLQPAQPIPIATFHHSYFPYKLYPPQ
+HRLSQSQMSLWDARSLISAHE
+ 4748
+Figure 6. Genetic map, conserved domain and phylogenetic tree of Dysmorphic
+(CG13183). (A) Schematic representation of location of Dmo on 2nd chromosome
+of fly genome is shown along with neighboring genes (picture taken from
+flybase.org). (B) Dmo protein is 431 amino acid long and contains a conserved
+MH2 domain of smad proteins. An antibody was generated against the nonconserved
+region of Dmo between amino acids 229-333 (shown with a black line).
+RNA probe to detect Dmo transcript was generated against the sequences
+corresponding to amino acids 229-431 (shown with red line). (C) Phylogenetic
+analysis of the MH2 domain of the protein was performed. This indicates that
+Dmo is closely related to Drosophila Expansion protein, the C. elegans protein
+C34E11.2c and distantly related to one of the uncharacterized human protein
+Hum-BAH12971. 49
+Dmo is localized in the cytoplasm and apical membrane
+To examine the localization of Dmo in tracheal cells, antibody was
+generated against non-conserved 15KD region of the Dmo protein. Unfortunately
+the antibody did not recognize Dmo in vivo. As a second approach, I created UASHA-
+Dmo transgenic lines. HA-Dmo was expressed in tracheal cells using BtlGap-GFP.
+Gap being a membrane protein allowed to label the cell membrane
+using α-GFP. Localization of Dmo was analyzed using α-HA antibody by
+comparing against membranous Gap-GFP and nuclear protein Trh. HA-Dmo was
+found localized mainly at the apical membrane of tracheal cells along with some
+cytoplasmic localization. However, there was no co-localization found with the
+nuclear marker Trh. These findings suggest that Dmo protein is membranous as
+well as cytoplasmicZ^`abcdeZf\-\Z[ZghiZfj-jZ[ ).
+Functional analysis of Dmo
+To understand the role of Dmo in tracheal development, I generated loss of
+function and gain of function mutants of Dmo. Loss of function mutation is
+created by excision of P-element located upstream (5’) to Dmo. The imprecise
+excision of P-element generated two deletion mutants of Dmo. Analysis of the
+tracheal morphology in mutants, using the tracheal apical membrane marker
+uninflatable (uif) displayed an elongated tracheal dorsal trunk with irregular
+diameter. However, unicellular branches such as LT and GB showed no obvious
+defects. Out of two mutants generated, Dmo
+∆64 removes entire coding region 50
+(exons 1to 6) of Dmo and two other downstream (3’) neighboring genes, MCPH1
+and EFLA1. However, the deleted neighboring genes are not tracheal expressed
+genes, which indicate that, the tracheal phenotype in Dmo
+∆64 mutants is merely
+due to the deletion of Dmo. As expected, FISH analysis shows no Dmo mRNA
+transcripts in the Dmo
+∆64 trachea. The second mutant generated was Dmo
+∆86 in
+which only exon1 of the Dmo gene is removed leaving all the neighboring genes
+intact. Dmo
+∆86 trachea also shows similar phenotype as Dmo
+∆64. Interestingly,
+exon1 does not encode the starting codon. This indicate that, exon1 might
+comprise a regulatory region vital for the gene function. Accordingly western blot
+analysis of the embryo lysate of Dmo
+∆64 and Dmo
+∆86, using α-dmo antibody
+showed complete absence of dmo protein in both lysates as opposed to the W 1118
+.
+(Figure 7D). Overall, in Dmo
+∆64 mutant entire coding region of Dmo along with
+two neighboring genes, MCPH1 and EFLA1 are deleted and thus acts as null
+mutant. Whereas, in Dmo
+∆86, exon1 and a part of intron1 is removed (Figure 7A).
+In order to confirm that, tracheal phenotype in Dmo
+∆64 mutants are solely due to
+the deletion of Dmo, and not due to deletion of other neighboring genes, a Dmo
+rescue experiment was performed. For this, UAS-Dmo was expressed in the
+mutant background of Dmo
+∆64, using Btl-gal4 driver and checked whether the
+phenotype could be completely rescued. As expected there was a complete rescue
+of the mutant phenotype and trachea looked similar to that of W1118 (Figure 8C &
+8c).51
+EFLA152
+Figure 7. Schematic representation of Dmo genomic region and localization of
+Dmo protein. (A) Dmo genomic region in Dmo
+∆64 (middle) and Dmo
+∆86 (lower)
+mutants are shown in comparison to W1118 genomic region with a p-element
+insertion at the 5’ end (upper). In the upper W1118 genomic region representation,
+solid black boxes indicate dmo exons, black lines in between the exons represent
+the introns. Blue boxes represents the neighboring genes and the black arrow point
+towards the site of p-element insertion. Flies with p-element insertion close to dmo
+gene were crossed to flies encoding transposase enzyme. In the resultant progenies
+p-element was assumed to be mobilized potentially by transposase enzyme and the
+flies were analyzed for any deletions in the genomic region of dmo by using PCR.
+The middle panel represents the dmo genomic region in Dmo
+∆64 flies. Shown is the
+deletion of genomic region of dmo starting from the p-element insertion site at 5’
+UTR till exon 6 along with two neighboring genes MCPH1 and EFLA1. However,
+in Dmo
+∆86 (lower panel) a segment of the 5’ UTR from the site of p-element
+insertion along with exon 1 and a part of intron 1 of dmo are deleted. (B)
+Individual tracheal cells are zoomed in to show the cytoplasmic localization of
+dmo (red) with respect to the membrane marker mCD8 (green) and nuclear marker
+Trh (blue). ^\Z[ ) IndicateZkleZmnogmapgkanhZnqZrsnZtaklZdeuveokZknZsjrwZ^\Z[ )
+Localization of Dmo in the cytoplasm is showhZcuahbZdeiZqmcndeuoehoe]Z^j-jZ[ ).
+View of a segment of the trachea showing the apical membrane and tracheal cells
+surrounding the lumen. (C) Dmo (red) is located in the cytoplasm as well as in the
+apical membrane and co-localize partially with mCD8 (green). xleZhcomegdZsgdyedZ
+xdlZauZgmunZulnthZ^zmce{]ZxledeZauZhnZon-mnogmapgkanhZnqZrsnZ^dei{ZtaklZxdlZ^zmce{Z
+^jZ[Z{Z|edbeiZasgbeZnqZrsnZ^dei{ZgmnhbZtaklZsjrwZ^bdeeh{Z^jZ[ ) Strong
+localization of Dmo (red) at the apical membrane and moderate levels in the
+cytoplasm of tracheal cells. (D) Western blot analysis of the Dmo in W1118
+,
+Dmo
+∆64 and Dmo
+∆86 embryo lysates using α-Dmo antibody. Dmo is around 48KD
+and shown in the W1118 lane. However, it is completely absent from both Dmo
+∆64
+and Dmo
+∆86. β-actin is used as a loading control. 53
+Next, in order to analyze whether enhanced Dmo expression also results in
+tracheal defects as in loss of function mutants, I generated over expression Dmo
+transgenic lines. The over expression transgenic lines, UAS-HA-Dmo lines were
+then crossed to Btl-Gal4 flies to specifically enhance the Dmo expression in
+tracheal cells alone. Phenotypic analysis of the trachea in such embryos did not
+show any significant disparity from the wild type (W1118) trachea. This shows
+that Dmo plays a permissive role rather than an instructive role in tracheal tube
+size regulation.
+Apical membrane length of tracheal cells is increased in Dmo mutants.
+Smad proteins function mostly as mediators of TGF-β signaling. TGF- β
+signaling have shown to play a role in branch specification and cell migration
+(Chen et al. 1998) in Drosophila trachea. It has also been shown to regulate cell
+number in zebra fish as a mean to control tube size in cranial vessels (Roman, et
+al. 2002). Nevertheless, loss of function and gain of function TGF- β mutants
+exhibit no obvious tube size defects. (Chen et al 1998; Myat et al. 2005)
+However, in Dmo mutants, tracheal branch identity is not compromised which
+indicates that this gene is not required for early patterning of the trachea. Total
+number of tracheal cells also remain similar in mutants compared to the wild type,
+as shown by the Trachealess (Trh), a tracheal specific nuclear marker. This
+indicates that the elongated trachea in Dmo mutants is not resulted from an 54
+increase in cell number. Overall these observations suggest that, Dmo could be an
+atypical smad protein with functions divergent from other smad proteins. Next, I
+examined other possibilities that could lead to tube over elongation such as apical
+membrane length and cell size. Analysis of apical membrane by immunostaining
+of apical marker uninflatable (uif) and apical crumbs (Crb) shows a more wavy
+apical membrane in the mutants compared to more or less straight membrane in
+wild type embryos. Accordingly the cell size of the tracheal cells also increased as
+indicated by the DE-cadherin (DE-cad) localization, one of the adherent junction
+(AJ) components. Therefore, the increased tube length in Dmo mutants might have
+resulted from an increase in length of the apical membrane of the tracheal cells.
+These observations describe Dmo as an atypical smad protein and suggest that it
+may not function as a mediator of TGF- β signaling. The tracheal elongation and
+diameter phenotype for each tracheal segments in the dysmorphic mutants were
+quantified against W1118. Out of 15 each wild type and mutants embryos
+analyzed, there were approximately 15% increase in the DT length in mutants
+compared to the wild type.5556
+Figure 8. The multicellular tube DT is over-elongated with irregular diameter in
+Dmo mutants. Stage 16 wild type (W
+1118), Dmo
+∆64 mutant embryos and Dmo
+rescue embryos were immunostained using apical membrane marker uninflated
+(uif). (A) Wild type DT was relatively straight. (B) The Dmo mutant DT was
+elongated with irregular diameter. (C) Expression of Dmo in Dmo
+∆64 background
+(Dmo rescue) rescued the mutant phenotype. (a) Enlarged area in A. (b) Enlarged
+area in B. (c) Enlarged area in C. (D) Comparison of standard deviation (μm) in
+diameter within each tracheal segments from second to seventh in W1118 and
+Dmo
+∆64. X-axis represents the position of tracheal segments and Y-axis represents
+the standard deviation (μm) in diameter within each tracheal segments. One each
+embryos of W1118 and Dmo
+∆64 from each stage16, early stage 17 and late stage 17
+are shown. Each line in the graph represents tracheal dimensions from one
+embryo. For all three W1118 embryos (stage 16 (light blue line), early 17 (green
+line) and late 17 (maroon line)) standard deviation within each tracheal segments
+range between 0-0.3 μm. For all three Dmo
+∆64 embryos (stage 16 (orange line),
+early 17 (dark blue line) and late 17 (red line)) standard deviation within each
+tracheal segments range between 0.1-1.5 μm. (E) Increased length of the DT in
+tracheal segments 4-7 in Dmo
+∆64 mutant embryos were quantitated against Wild
+type embryos. Average increase in length of 10 mutant embryos vs 10 wild type
+embryos are shown as a graphical representation. In segments 4-7, there was
+approximately 15% increase from 108.2 μm in wild type to 126.2 μm in Dmo
+mutants. DT: Dorsal Trunk. 57
+Dmo does not function as a regulator of TGF-β signaling pathway in
+Drosophila trachea.
+Dmo belongs to the Smad family of proteins. Smad proteins are regulators
+(e.g., such as with Dad) of TGF-β signaling (Kamiya, et al. 2008). To test this
+possibility, we analyzed the effect of Dmo on TGF-β signaling mutant phenotype
+by expressing Dmo in constitutively active or loss of function TGF-β signaling
+mutants. If Dmo regulates TGF-β signaling, expressing Dmo in these mutants will
+either suppress or enhance the mutant phenotype. Overactive TGF-β signaling by
+expressing TkvQ253D in trachea using btl-gal4 caused defects in DT migration
+(Fig. 4D) compared to control (Fig. 4A). TGF-β loss of function mutant punt135
+had defects in DB formation (Fig. 4B). However, Dmo expression in TkvQ253D
+over-expressed trachea (Fig. 4E) or punt135 mutant trachea (Fig. 4C) neither
+suppressed nor enhanced the mutant phenotypes. Thus, similar to Exp, Dmo does
+not function as a typical Smad by regulating TGF-β signaling.
+Dmo is required for the maintenance of luminal matrix components
+Luminal components have shown to play an important role in tube size
+regulation. Tracheal luminal matrix components include, chitin, a polysaccharide,
+chitin deacetylases vermiform (verm) and serpentine (serp), chitin binding proteins
+gasp (2A12) and obst-A, and a zona pellucida domain containing protein Piopio
+(pio). Chitin is synthesized in tracheal cells and begins to accumulate in the 58
+tracheal lumen by stage13 of embryogenesis. At stage 14 chitin deacetylases serp
+and verm are secreted into the lumen and helps in maintaining fibrillar structure of
+chitin. (Luschnig et al. 2006). At the same time presence of luminal chitin is
+required for the secretion of these deacetylases into the lumen (Luschnig et
+al.2006). The interaction between the chitin deacetylases and chitin is important
+for restricting the tube length of the trachea. It was also shown that genes in chitin
+biosynthetic pathway when mutated results in defective amounts of luminal gasp
+(Devine et al. 2005). Whereas, obst-A and gasp over expression exhibit irregular
+diametric expansion of tracheal dorsal trunk (Tiklová and Samakovlis 2013) and
+both proteins exhibit functional redundancy. To test whether Dmo regulates tube
+size by controlling the secretion or maintenance of luminal matrix components,
+immunohistochemical analysis of chitin, verm, serp, obst-A and gasp were
+performed. In Dmo mutants, chitin, chitin deacetylases, obst-A and gasp showed
+normal secretion as indicated by the proper localization of these components in the
+lumen at early stages of embryogenesis. However the luminal abundance of these
+proteins were reduced significantly at later stages when compared to the wild type
+embryos. Surprisingly, a much severe phenotype was observed for obst-A protein
+compared to other proteins in that obst-A showed a drastic reduction from the
+lumen at later stages in Dmo mutants. These observations indicate that Dmo might
+play a role in the proper accumulation of these proteins specifically obst-A, in the
+lumen at later stages by either controlling the luminal maintenance or by
+regulating the protein turnover or recycling. On the other hand, another matrix 59
+protein Piopio showed no obvious difference from that of wild type. This
+indicates that dysmorphic only affects cargo specific secretion or recycling of
+certain luminal proteins at later stages of embryogenesis.
+Figure 9. Dmo does not function as a regulator of TGF-β signaling. Stage15
+embryos were stained with anti-Crumb to label the apical membrane. (A) Normal
+formation of DT and DB in wild type trachea is shown. (B) DB (arrowheads) did
+not migrate out in punt135 mutants. (C) Similar to punt135 mutants, Dmo
+overexpression in trachea did not rescue the DB (arrowheads) migration defects
+(D)TkvQD expression in trachea led to DT (arrow) formation defect. (E) Dmo and
+TkvQD overexpression in trachea had similar DT formation defect as TkvQD
+overexpression alone. 60 61
+Figure: 9. Reduced localization of luminal matrix components in Dmo
+∆64 mutants
+at later stages of embryogenesis. (A-D’)Defective localization of obstructor-A in
+Dmo
+∆64 compared to W1118. (A&B) Localization of obst-A (green) in tracheal
+lumen at Stage 14 is shown along with the apical marker uif (red) in W1118 (A) and
+Dmo
+∆64 ^\{]Z^YZ[Z-\Z[) Normal localization of obst-A (green) in W1118Z^YZ[)
+compared to Dmo
+∆64 gkZukgbeZ}~Z^\Z[). (C&D) Stage 15 embryos indicating
+considerable decrease in the luminal localization of obst-A (green) in Dmo
+∆64 (D)
+when compared to the W1118]ZxleZgvaogmZseszdgheZsgdyedZcaqZ^dei{ZauZulnth]Z^jZ
+[Z-rZ[) shown is the predominant cytoplasmic localization of obst-A (green) as
+indicated by the arrow head in Dmo
+∆64 ^rZ[) embryos compared to the
+predominantly luminal obst-A (green) in W1118 ^jZ[). Tracheal lumen is indicated
+by the asterisk and cytoplasmic obst-A is indicated by arrowhead. (E-P’)
+Localization of luminal components Chitin, Verm, and Gasp were analyzed in
+wild type and Dmo mutant embryos. DT of Stage 14, 15 and 16 embryos in W1118
+and Dmo
+∆64 are shown. At stage 14, luminal polysaccharide chitin (green- E & E’)
+and luminal proteins gasp (blue- G & G’) and verm (red- H & H’) were secreted
+normally to the DT lumen in Dmo
+∆64 (E’,G’,H’) similar to wild type (E,G,H). At
+late stage15, luminal chitin (I & I’), gasp (K & K’) and verm (L & L’) localization
+was reduced in Dmo
+∆64 (I’, K’, L’) when compared to the wild type (I, K, L). The
+decrease in localization of these components in Dmo
+∆64 were persisted (chitin- M’,
+gasp-O’, verm-P’) and were more severe during stage 16 compared to wild type
+(chitin- M, gasp-O, verm-P) control of similar stage. 62
+Junctional components are not altered in dysmorphic mutants.
+Septate junction (SJ) has been shown to partake in the secretion of verm
+and serp to the luminal extra cellular matrix. In addition, mutants in SJ display
+tube over-elongation phenotype similar to dysmorphic mutants. SJ appear as a
+ladder-like group of septa basal to the cadherin-based adherens junctions. SJs have
+been implicated in tube-size regulation by different mechanisms. One group
+including the Na+/K+-ATPas (α and β subunits), Nrx-IV, Lachesin (Lac), Sinuous
+(Sinu), Megatrachea (Mega) and varicose (Vari) controls tube length by
+controlling the secretion of luminal matrix proteins verm and serp. Another group,
+Yurt, Coracle and Sribble restricts tube over-elongation thorough a luminal matrix
+independent pathway. Yurt and Corcle directly inhibits the over-expression of
+apical membrane protein Crumbs and Sribble inhibits tube elongation thorough an
+unknown pathway (Fig. 9A). To investigate the possibility that Dmo is required
+for normal distribution of septate junction proteins, I analyzed the distribution of a
+subset of SJ components in Dmo mutants and wild type embryos including;
+Sinuous, varicose, kune-kune, yurt, coracle, nrv2.1, DLG and Fasciclin III.
+Immunohistochemical analysis revealed comparable distribution and localization
+of these components in Dmo mutants compared to the wild type embryos. These
+observations indicate that Dmo maintains the abundance of luminal components
+through a mechanism that may not involve SJ components. 63
+Figure 10. Localization of SJ components are not altered in Dmo mutants. Upper
+panel. Immunostaining of the septate junction components in wild type (W
+1118) and
+Dmo
+∆64 are shown (green). Apical membrane marker Crumbs (red) is used to label
+the apical membrane. Similar distribution of SJ markers FasIII (green) and Cora
+(green) in W1118 (A’ and C’ respectively) and Dmo
+∆64 (B’ and D’ respectively) are
+shown. Lower panel. Immunostaining of the septate junction components KuneKune
+and Nrv, in wild type (W
+1118) and Dmo
+∆64 are shown (green). Apical
+membrane marker uif (red) is used to label the apical membrane. Similar
+distribution of Kune-kune (green) and Nrv (green) in W1118 (A’ and C’
+respectively) and Dmo
+∆64 (B’ and D’ respectively) are shown. A,B,C,D. represents
+the respective SJ component (green) along with apical marker crumbs (red).
+E,F,G,H. indicate the merged picture of respective SJ component and apical
+marker uif 64
+Reduced apical localization of Rab11 in dysmorphic mutants
+Secretion of ECM components are unaffected at early stages in Dmo
+mutants suggesting that Dmo may not regulate secretion of ECM components.
+However, proper levels of luminal proteins are maintained in the tracheal lumen at
+later stages through Rab mediated endocytosis and recycling. In Dmo mutant
+luminal abundance of proteins are reduced only at later stages, proposing a
+possibility that Dmo regulates recycling or protein turnover of luminal
+components at later stages. A similar scenario was described earlier for one of the
+luminal proteins serp, where the protein abundance was normal at early stage but
+reduced at later stages when the functioning of one of the recycling endosome
+Rab9 was impaired (Dong et al. 2013). This further strengthen the anticipation that
+Dmo might regulate protein recycling. Therefore, known components of the
+recycling pathway was analyzed using immunohistochemistry. No significant
+change has been observed in the localization or abundance of Golgi and ER in
+mutants compared to the wild type, suggesting that dysmorphic mutants do not
+exhibit defects in general vesicular trafficking machinery. Small GTPase Rab11 is
+a recycling endosome marker that has shown to play an important role in targeted
+delivery of vesicles carrying cargos from late endosomes to membrane during
+protein recycling or turnover (Pelissier et al., 2003; Saraste and Goud, 2007; Satoh
+et al., 2005; Strickland and Burgess, 2004). In normal polarized epithelia, Rab11
+localizes to both apical recycling endosomes (Hoekstra et al., 2004) and apically-65
+targeted secretory vesicles emerging directly from Golgi (Satoh et al. 2005) and
+late endosomes. Immuno histochemical analysis of trachea in Dmo mutants
+displayed a greatly reduced apical localization of Rab11during later stages of
+embryogenesis, while retaining the normal cytoplasmic localization. Rab11 has
+shown to be important for DE-cadherin mediated inhibition of cell intercalation in
+tracheal DT during lumen formation (Bryant et al. 2010; Datta and Mostov 2011;
+Desclozeaux et al. 2008; Ribeiro and Affolter 2004; Shaye and Llimargas 2008)
+and to facilitate recycling of apical determinant crumb in epidermis and DEcadherin
+in trachea (Roeth et al. 2009; Desclozeaux et al. 2008). Hence, I
+examined, if reduced Rab11 in apical membrane at later stages compromised
+normal occupancy of crumb and DE-cadherin in Dmo mutants. The abundance of
+these proteins were optimal and in agreement with this finding, no ectopic cell
+intercalation was found. These observations suggest that sub optimal levels of
+Rab11 at the apical membrane might be an indirect effect of reduced apical
+delivery of luminal components. This shows that dysmorphic might function to
+facilitate Rab11 mediated apical delivery of specific luminal matrix cargos.
+Dmo interacts physically with MyoV, Rab11 and obst-A
+Forgoing observations suggest that Dmo might regulate apical delivery of
+recycling cargos of luminal proteins. I tested if there exist any physical interaction
+between Dmo and other proteins involved in apical delivery, such as MyoV and 66
+Rab11. MyoV is involved in the apical delivery of cargo proteins including gasp
+and pio in Drosophila (B. X. Li and Ready 2007b; Massarwa and Shilo 2009).
+Similarly Rab11 is a recycling endosome marker and shown to form a complex
+with MyoV during apical delivery (B. X. Li and Ready 2007b). Additional
+confirmation for the interaction between Rab11 and MyoV was described in
+different systems (Hales and Goldenring 2002; Lapierre et al. 2001). Hence,
+primarily I investigated whether Dmo interacts with MyoV and Rab11. For this,
+co-immunoprecipitation analysis followed by protein specific western analysis
+was performed in UAS-HA-Dmo embryos compared to wild type embryos. The
+data obtained indicates a possible interaction between Dmo with MyoV and
+Rab11. In this experiment β-actin was used as a loading control. Since Dmo
+mutants exhibit a later stage localization defect of luminal proteins, I next
+examined if Dmo interacts with any of the luminal components. The pull down
+assay followed by western analysis demonstrates that, Dmo interacts with obst-A,
+but did not show any interaction with other luminal components such as verm and
+serp. Gasp is another luminal protein critically mislocalized by Dmo mutation.
+However, reduced sensitivity of gasp antibody on western blot prevented us to
+confirm potential interaction between gasp and Dmo. I also tested if Dmo forms
+complex with one of the exocyst components sec8, but no interaction was
+observed. These observations suggest that Dmo might form a complex with MyoV
+and Rab11 and somehow participate in the apical delivery of obst-A mainly during
+cargo recycling. Inorder to explore the possible involvement of MyoV in apical 67
+delivery of obst-A, I analyzed obst-A localization in MyoV mutants. MyoV
+mutants indeed showed a reduced localization of obst-A in the tracheal lumen
+when compared to the wild type. This observation further confirm the possible
+MyoV dependent role of Dmo in the apical delivery of obst-A. I also analyzed the
+obst-A localization in Rab11DN embryos. However, Rab11DN expression in the
+embryos greatly disrupted the overall tracheal integrity precluding further analysis
+of obst-A localization. These observations also suggest that Dmo might directly
+influence the localization of obst-A alone, and the impaired localization of other
+luminal proteins such as verm and serp could be an aftereffect of obst-A reduction
+in the trachea as observed previously in obst-A mutants (Petkau et al. 2012;
+Tiklová and Samakovlis 2013b). Similarly, it was previously shown that obst-A is
+required to prevent premature degradation of luminal components including chitin.
+Hence reduced chitin localization in tracheal lumen of Dmo mutants at later stages
+could be attributed to the decrease in obst-A abundance. 68
+Figure 11. Dmo physically interacts with Rab11 and MyoV. (A, B & C) Merged
+picture of obst-A (green) along with apical membrane marker uif (red) is shown in
+W1118 (A), MyoVQ1052st (null mutant of MyoV) (B) and Dmo
+∆64 (C). (A’, B’& C’)
+Normal localization of obst-A (green) in tracheal lumen of W1118 embryo (A’) is
+indicated with an asterisk as opposed to the predominantly cellular (abnormal)
+localization of obst-A (green) in MyoVQ1052st (null mutant of MyoV) (B’) and
+Dmo
+∆64 (C’) pointed using an arrow. (D, D’ & E, E’) Reduced localization of
+Rab11 in Dmo
+∆64 when compared to W1118
+. D and E represents the merged picture
+of Rab11 (green) along with apical membrane marker uif (red) in Dmo
+∆64 and
+W1118 respectively. ^rZ[-ÄZ[) Reduced localization of Rab11 (green) in Dmo
+∆64
+(D’) when compared to W1118 (E’). F. Co-immunoprecipitation of MyoV and
+Rab11and obst-A but not serp with HA-Dmo. HA-Dmo fly lysate in which HA
+tagged Dmo is overexpressed through UAS/Gal4 system was used to
+immunoprecipitate Dmo using anti-HA beads. Wild type embryos with no HADmo
+and physiological levels of Dmo (not over expressed) was used as a control.
+Beta- actin was used as a loading control. Molecular weight of each protein is
+represented in Kilo Daltons (KD). 69
+Slight increase in the distribution of F-actin at the apical membrane of Dmo
+mutants
+Tube size defects and associated cell shape changes could potentially be
+attributed to the cytoskeletal rearrangements at the cell surface. One of the distinct
+characteristics of the epithelial tube is the presence of a dense layer of F-actin at
+the apical side of the cells facing lumen. In Drosophila tracheal dorsal trunk, Factin
+first appears in the apical side of the cells at stage 13 of embryogenesis.
+Formin-Family Protein Diaphanous (Dia) and its upstream effector Rho1 was
+shown to be responsible for actin nucleation and subsequent actin localization at
+the apical membrane (Massarwa and Shilo 2009). Apical F-actin serves as a track
+for the trafficking and polarized secretion of apically secreted luminal proteins.
+Accordingly in the absence of F-actin at the apical membrane, there shown to be a
+complete absence of luminal gasp and Pio. Hence, I examined the localization of
+apical F-actin in both wild type and Dmo mutants. Apical F-actin distribution was
+slightly increased in most of the Dmo mutant embryos compared to the wild type.
+However, no changes in the localization of F-actin was observed. This observation
+fits to the fact that there is no secretion defect in Dmo mutants at early stages of
+embryogenesis. This finding further strengthen the hypothesis that the components
+of general apical secretion machinery is unaffected in Dmo mutants. 70
+Decreased localization of activated Moesin at the apical membrane
+Moesin is a highly conserved protein which localizes predominantly to the
+apical surface of epithelia. Moesin is the only ERM family protein found in
+Drosophila. Upon phosphorylation Moesin cross links actin cytoskeleton with the
+plasma membrane. Thus phosphorylation of Moesin impart rigidity to the apical
+membrane (Kunda et al. 2008). In agreement with this theory suboptimal levels of
+p-Moesin at the apical membrane of tracheal DT and salivary gland leads to
+elongated tubes. (Cheshire et al. 2008). Since Dmo mutants show elongated
+tracheal dorsal trunk, I analyzed the abundance of p-Moesin at the apical
+membrane. Considerable reduction in the localization of p-Moesin at the apical
+membrane was observed in Dmo mutants compared to the wild type. This
+phenotype was more obvious towards later stages of embryogenesis, in such a way
+that stage 15 stage embryos showed comparable p-Moesin levels to the wild type.
+However, from late stage 15 onwards, there were a significant reduction in the pMoesin
+levels in mutants. However, the amount of total Moesin at the apical
+membrane of Dmo mutants was similar to that of wild type. These observations
+suggest that Dmo plays an important role in activation, but not the stabilization of
+Moesin, at the apical membrane of tracheal cells. In Drosophila S2 cells and
+embryos β-Spectrin, another actin cross linking protein, and Moesin are recruited
+to the apical membrane of the epithelial cells by crumbs (Médina et al. 2002).
+There is no difference in the apical localization of crumbs or β-Spectrin between 71
+Figure 12. Reduced localization of p-Moesin in the apical membrane of Dmo
+∆64
+DT. (A & B) Localization of p-Moe (green) at the apical membrane along with
+apical membrane marker uif (red) in Dmo
+∆64 (B) and W1118 (A). (A’ & B’) reduced
+localization of p-Moe at the apical membrane of Dmo
+∆64 (B’) compared to W1118
+(A’). (C & D) Abundance of Total-Moesin (green) at the apical membrane along
+with apical membrane marker uif (red) in Dmo
+∆64 (D) and W1118 (C). (C’ & D’).
+Similar amounts of Total-Moe at the apical membrane of Dmo
+∆64 (D’) and W1118
+(C’). The arrowhead indicates the apical membrane. (E & F) Shown is the slightly
+enhanced localization of cortical F-actin in the Dmo
+∆64 (F) embryos compared to
+W1118 (E) embryos. 72
+Dmo mutant and wild type embryos. This further emphasize the finding that the
+recruitment of Moesin to the apical membrane in unaltered in Dmo mutants.
+Furthermore, previous studies reported that suboptimal or supra-optimal levels of
+p-Moesin at the apical membrane of the photo receptor cells and imaginal discs
+abolished actin cytoskeleton at the apical domain and disrupted epithelial integrity
+(Karagiosis and Ready 2004; Speck et al. 2003). On the contrary, in Dmo mutant’s
+actin distribution at the apical domain is not compromised, as seen under low
+magnification. However, an ultra-structural examination of the apical membrane
+under higher magnification needs to be performed for a detailed analysis of actin
+before further confirmation.
+Over activation of Rho1 in tracheal cells increases p-Moesin localization at
+the apical membrane
+ Former studies in mammalian cell lines demonstrated Rho-associated
+protein kinase (ROCK) dependent phosphorylation of Moesin at threonine 559
+residue by RhoA (Matsui et al. 1998; Shaw et al. 1998). However, in Drosophila
+S2 cells, depletion of Rho1 caused only a modest reduction in the apical p-Moesin
+(Hipfner, Keller, and Cohen 2004). Contradictory role of Rho1 in down regulating
+apical p-Moesin during Drosophila salivary gland lumen formation has also been
+described (Xu et al. 2011). Interestingly, a negative feedback loop exist between
+activation of Moesin and Rho1 pathway in Drosophila imaginal disc (Speck et al.
+2003). However, role of Rho1 in Moesin phosphorylation in the tracheal 73
+epithelium is not characterized yet. In order to explore the possible effect of Rho1
+on phosphorylation of Moesin during tracheal development, active Rho1 (RhoA
+V14) was expressed constitutively in the tracheal cells using Btl-gal4 driver. Rho1
+constitutive activation in the trachea resulted in increased apical p-Moesin
+compared to the wild type. Interestingly, under Dmo mutant background, Rho1
+V14 expression in the tracheal cells rescued the enhanced p-Moesin phenotype
+and showed comparable or slightly reduced levels than the wild type embryos.
+However, expression of Rho1 dominant negative (Rho1N17) construct in wild
+type and Dmo mutant background showed similar phenotype for p-Moesin.
+Nonetheless, in the latter scenario the p-Moesin levels were not consistently
+similar in all the embryos. Some embryos showed p-Moesin levels similar to that
+of wild type and the others exhibited reduced localization. A similar observation
+was described in Drosophila S2 cells upon depletion of Rho1 (Hipfner, Keller, and
+Cohen 2004). These observations suggest that Rho1 may not act as the primary
+activator of p-Moesin in wild type trachea. However, over activation of Rho1 in
+wild type trachea could enhance p-Moesin levels and the enhanced p-Moesin can
+be brought to normal by reducing the Dmo protein. This explains a possible
+genetic interaction between Rho1 and Dmo in regulating tracheal p-Moesin when
+Rho1 expression is upregulated in trachea.
+ 74
+Figure 13. Enhanced Rho1 in trachea can elevate the p-Moesin levels at the apical
+membrane. (A, B, C, D) Merged image showing p-Moesin and apical marker uif
+in wild type (W
+1118) (A), Rho1 active (B), Dmo
+∆64 (C) and Rho1active/ Dmo
+∆64 (D)
+trachea. (A’, B’, C’, D’) Comparison of p-Moesin (green) levels at the apical
+membrane of wild type (W
+1118) (A’), Rho1 active (B’), Dmo
+∆64 (C’) and
+Rho1active/ Dmo
+∆64 (D’) trachea. Enhanced p-Moesin upon constitutive
+activation of Rho1active (B’) when compared to W
+1118 (A’) is shown.
+Enhancement of p-Moesin upon Rho1 activation is rescued if the Rho activation
+took place in Dmo mutant background (D’). Reduced p-Moesin levels in Dmo
+∆64
+(C’) is shown in comparison to wild type (W
+1118) (A’) and Rho1active/ Dmo
+∆64
+(D’). (A”, B”, C”, D”) Labelling of apical membrane using uif (red). 75
+Enrichment of slik at the apical membrane does not change in Dmo mutants
+Sterile-20 like kinase Slik, is the primary player in the activation of Moesin
+in both DT and terminal cells of trachea (Ukken et al. 2014b). Slik activates
+Moesin by phosphorylating its regulatory threonine residue. Since Dmo mutants
+showed a reduced apical enrichment of p-Moesin, I asked whether Dmo normally
+enhance p-Moesin through a slik dependent pathway. To address this, I analyzed
+slik localization in Dmo mutants as opposed to the wild type trachea. No
+considerable difference in the slik enrichment at the apical membrane was
+observed between Dmo mutant and wild type embryos. This observation cannot be
+explained by foreseeing Dmo as a downstream component of slik pathway,
+because slik directly phosphorylate Moesin. However, in this regard it is possible
+to describe that, Dmo is required for the activity of slik but not for its localization.
+Nonetheless, reduction of apical localization of p-Moesin in slik mutants are much
+severe compared to the Dmo mutants. These observations suggest that Dmo could
+enhance slik activity directly or indirectly thus contribute to the activation of
+Moesin or Dmo activates Moesin through a different pathway other than slik.
+Localization of p-Moesin is drastically reduced in obst-A mutant
+One other possibility for reduced p-Moesin in Dmo mutants could be
+through an indirect mechanism due to impaired localization of luminal
+components. However, such impact of luminal proteins on p-Moesin is not 76
+Figure 14. Reduced tracheal p-Moesin in obstructor-A mutants. (A & B) Merged
+image showing the apical localization of p-Moesin and uif in W
+1118 (A) and
+Dmo
+∆64 (B) trachea. (A’ & B’) Reduced localization of p-Moesin (green) at the
+apical membrane of obst-A mutant (obst-Ad02) (B’) when compared to the wild
+type W
+1118 (A’). (A” & B”) Apical membrane marker uif for both W
+1118 (A”) and
+Dmo
+∆64 (B”) is shown in red. (C & D) Shown is the merged picture of apical
+membrane marker crumbs (Crb) and apical slik in wild type (W
+1118) (C) and
+Dmo
+∆64 (D) trachea. (C’ &D’) Represents apical crumb (red) in W
+1118 and Dmo
+∆64
+respectively. (C” & D”) Similar levels of slik (green) in both W
+1118 (C”) and
+Dmo
+∆64 (D”) embryonic trachea. 77
+reported yet. Since Dmo mutants exhibited a significant reduction in the
+localization of obst-A when compared to other luminal components at later stages,
+first I analyzed the p-Moesin localization in obst-A mutants. I found a severe
+reduction in the apical membrane localization of p-Moesin in tracheal cells of
+obst-A mutants compared to the wild type. However, this defect was more
+pronounced in DT and TC cells compared to LT and GB. Surprisingly, similar
+pattern was observed in Dmo mutants. However, the reduced p-Moesin levels
+were more severe in obst-A mutants compared to the Dmo mutants. This could be
+explained by taking into consideration that, obst-A mutants are protein null and in
+Dmo mutants, obst-A is severely reduced but not completely absent. These
+observations suggest that reduced p-Moesin in dmo mutants could be attributed to
+the reduced localization of obst-A.
+Test for genetic interaction between Dmo and RTK signaling components
+Unlike Exp, Reb does not negatively regulate RTK (EGFR, FGFR)
+signaling to control tube size. Previous studies indicate that over-activated RTK
+signaling, epithelial growth factor receptor (EGFR) or fibroblast growth factor
+receptor (FGFR), in Drosophila type III receptor tyrosine phosphatases (RPTPs)
+mutants contributes to tracheal cyst formation in unicellular and intracellular
+tubes, but not in the multicellular DT (Jeon and Zinn. 2009). Genetic interaction
+studies suggest that Exp negatively regulates RTK signaling to prevent cyst
+formation in these tubes (Iordanou, et al. 2014). If Reb functions similarly to Exp 78
+by inhibiting RTK signaling to control DT size, then overactive RTK signaling is
+the underlying cause of the tube-size defects in reb mutants. To test this possibility
+we expressed the dominant negative (DN) forms of the EGFR and FGFR
+(breathless (Btl) in trachea) in reb mutant trachea respectively in order to down
+regulate RTK signaling. No obvious changes in reb mutant phenotype (Fig. 4B) by
+suppressing EGFR (Fig. 4C) or Btl (Fig. 4D) were observed, suggesting that RTK
+signaling does not play a significant role in Reb mediated tube-size regulation.
+This is most likely due to the presence of Exp in reb mutants.
+Genetic interaction in smaller branches, unicellular branches. 7
+9
+Conclusion
+Discussion 80
+Here we have analyzed the role of Smad protein Reb in the maintenance of
+apical luminal matrix in Drosophila trachea. Reb and Exp redundantly regulate
+the apical deposition of chitin. In reb single mutant, no obvious defect in chitin
+secretion is observed due to the presence of Exp. Therefore, the analysis of the reb
+single mutant allows us to investigate additional functions of Reb besides its role
+in the secretion of chitin. However, despite the normal secretion of luminal
+components, these components are not maintained in the lumen of reb mutants.
+The increased cytoplasmic and reduced luminal localization of ObstA suggests a
+defect in the recycling of the internalized ObstA in reb mutants. Furthermore, we
+found direct physical interactions between Reb and ObstA, and between Reb and
+Rab11 by co-immunoprecipitation. These results strongly suggest that Reb is
+involved in the maintenance of luminal matrix through endocytic recycling of
+ObstA.
+Despite the progress made on understanding the apical secretion of luminal
+components, the recycling of distinct luminal components are not well understood.
+Various endocytic recycling pathways are likely involved in the maintenance of
+luminal matrix. Rab9 regulates the retrograde recycling of Serp but not other
+luminal components. This result suggests distinct luminal components are recycled
+by various recycling pathways. The defective recycling of ObstA in reb mutants
+and interaction between Reb-Rab11 and Reb-ObstA strongly suggests that Rab11
+plays a role in the recycling of ObstA. Reb could be involved in the assembly,
+trafficking, tethering, or fusion of the ObstA containing recycling vesicle to the 81
+apical membrane. Nevertheless, the mechanism of Reb in regulating these
+processes needs to be further investigated. In addition to the reduction of ObstA in
+the lumen, we also observed reduction of other luminal components. Unlike
+ObstA, we did not observe increased cytoplasmic localization of luminal proteins
+Gasp, Verm, and Serp in reb mutants. Therefore, the reduction of these
+components is possibly due to premature degradation, as luminal components are
+degraded in obstA mutants.
+Reb is a Smad protein. Smad proteins are generally known as mediators of
+transforming TGF-β signaling. However, Reb subfamily proteins such as Reb and
+Exp are not mediators of the TGF-β signaling. Genetic interaction studies suggest
+that at least in part, Exp regulates Receptor Tyrosine Kinase (RTK) signaling to
+control tube size. Very recently, an independent study suggests that Exp/Reb
+regulates the deposition of chitin into the lumen. This work suggests that Reb is
+involved in the recycling of luminal component ObstA. In summary, these results
+indicate that Smads of the Reb family regulate cellular processes and signaling
+pathways other than TGF-β signaling. This is possibly due to interaction with nonSmad
+proteins. The Reb subfamily contains an N-terminal MH2 domain rather
+than a C-terminal domain in regular Smads. We speculate that the protein structure
+might affect the protein-protein interaction. Identification of additional Reb
+interacting proteins and protein domains involved in the interaction by
+biochemical approach will further reveal the mechanisms of Reb subfamily 82
+proteins. The results presented here will provide novel insights of Smad in tubesize
+regulation and expand our general knowledge about Smad proteins.
+Significance
+Int Rev Cell Mol Biol. 2009;274:129-82. doi: 10.1016/S1937-6448(08)02003-0.
+Chapter 3: acquisition of membrane polarity in epithelial tube formation
+patterns, signaling pathways, molecular mechanisms, and disease.
+Martín-Belmonte F1
+, Rodríguez-Fraticelli AE.
+Author information
+Abstract
+Epithelia coordinate the polarity of individual cells, in space and time, with
+surrounding cells and the extracellular matrix (ECM) to organize threedimensional
+structures that shape tissues and organs. One of the most important
+features of epithelial polarization is the asymmetric distribution of membrane
+surfaces with the apical surface facing a lumen or outside of the organism, and a
+basolateral surface facing other cells and ECM. This chapter discuss the processes
+required for the acquisition of the asymmetric distribution of membrane surfaces
+during morphogenesis, which include trafficking pathways, vesicle-sorting
+machineries, formation of junctional and polarity complexes, and the
+establishment of signaling networks. In addition, different mechanisms and
+patterns are described for forming luminal spaces, and how alterations in cell
+polarity are associated with important human diseases such as cancer.
+This provides a lead towards the function (pathway) of the human gene and could
+help in the development of effective drugs. The analysis of fly embryonic
+development has made a particularly important contribution to the understanding
+of developmental processes in humans. For example, the genetic basis of many
+human birth defects is now known by the studies in developmental mutants in the
+fly 83
+BIBLIOGRAPHY
+Adler, Paul N. 2002. “Planar Signaling and Morphogenesis in Drosophila.”
+Developmental cell 2(5): 525–35.
+http://www.ncbi.nlm.nih.gov/pubmed/12015961 (December 29, 2014). 84
+Affolter, M, J Montagne, U Walldorf, J Groppe, U Kloter, M LaRosa, and W J
+Gehring. 1994. “The Drosophila SRF Homolog Is Expressed in a Subset of
+Tracheal Cells and Maps within a Genomic Region Required for Tracheal
+Development.” Development (Cambridge, England) 120(4): 743–53.
+http://www.ncbi.nlm.nih.gov/pubmed/7600954 (December 18, 2014).
+Andrew, Deborah J, and Andrew J Ewald. 2010. “Morphogenesis of Epithelial
+Tubes: Insights into Tube Formation, Elongation, and Elaboration.”
+Developmental biology 341(1): 34–55.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2854166&tool=p
+mcentrez&rendertype=abstract (December 11, 2014).
+Araújo, Sofia J, Hanna Aslam, Guy Tear, and Jordi Casanova. 2005.
+“Mummy/cystic Encodes an Enzyme Required for Chitin and Glycan
+Synthesis, Involved in Trachea, Embryonic Cuticle and CNS Development--
+Analysis of Its Role in Drosophila Tracheal Morphogenesis.” Developmental
+biology 288(1): 179–93. http://www.ncbi.nlm.nih.gov/pubmed/16277981
+(December 8, 2014).
+Aspenström, Pontus, Ninna Richnau, and Ann-Sofi Johansson. 2006. “The
+Diaphanous-Related Formin DAAM1 Collaborates with the Rho GTPases
+RhoA and Cdc42, CIP4 and Src in Regulating Cell Morphogenesis and Actin
+Dynamics.” Experimental cell research 312(12): 2180–94.
+http://www.ncbi.nlm.nih.gov/pubmed/16630611 (January 5, 2015).
+Bagnat, Michel, Isla D Cheung, Keith E Mostov, and Didier Y R Stainier. 2007.
+“Genetic Control of Single Lumen Formation in the Zebrafish Gut.” Nature
+cell biology 9(8): 954–60. http://www.ncbi.nlm.nih.gov/pubmed/17632505
+(December 31, 2014).
+Bastock, Rebecca, and David Strutt. 2007. “The Planar Polarity Pathway Promotes
+Coordinated Cell Migration during Drosophila Oogenesis.” Development
+(Cambridge, England) 134(17): 3055–64.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1991286&tool=p
+mcentrez&rendertype=abstract (December 25, 2014).
+Baumgartner, S, J T Littleton, K Broadie, M A Bhat, R Harbecke, J A Lengyel, R
+Chiquet-Ehrismann, A Prokop, and H J Bellen. 1996. “A Drosophila
+Neurexin Is Required for Septate Junction and Blood-Nerve Barrier
+Formation and Function.” Cell 87(6): 1059–68.
+http://www.ncbi.nlm.nih.gov/pubmed/8978610 (January 4, 2015). 85
+Behr, Matthias, Dietmar Riedel, and Reinhard Schuh. 2003. “The Claudin-like
+Megatrachea Is Essential in Septate Junctions for the Epithelial Barrier
+Function in Drosophila.” Developmental cell 5(4): 611–20.
+http://www.ncbi.nlm.nih.gov/pubmed/14536062 (January 4, 2015).
+Beitel, G J, and M A Krasnow. 2000. “Genetic Control of Epithelial Tube Size in
+the Drosophila Tracheal System.” Development (Cambridge, England)
+127(15): 3271–82. http://www.ncbi.nlm.nih.gov/pubmed/10887083
+(December 18, 2014).
+Bonifacino, Juan S, and Benjamin S Glick. 2004. “The Mechanisms of Vesicle
+Budding and Fusion.” Cell 116(2): 153–66.
+http://www.ncbi.nlm.nih.gov/pubmed/14744428 (December 10, 2014).
+Bonifacino, Juan S, and Raul Rojas. 2006. “Retrograde Transport from
+Endosomes to the Trans-Golgi Network.” Nature reviews. Molecular cell
+biology 7(8): 568–79. http://www.ncbi.nlm.nih.gov/pubmed/16936697
+(December 10, 2014).
+Brodu, Véronique, and Jordi Casanova. 2006. “The RhoGAP Crossveinless-c
+Links Trachealess and EGFR Signaling to Cell Shape Remodeling in
+Drosophila Tracheal Invagination.” Genes & development 20(13): 1817–28.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1522077&tool=p
+mcentrez&rendertype=abstract (December 18, 2014).
+Brouns, MR, SF Matheson, KQ Hu, I Delalle, VS Caviness, J Silver, RT Bronson,
+and J Settleman. 2000. “The Adhesion Signaling Molecule p190 RhoGAP Is
+Required for Morphogenetic Processes in Neural Development.”
+Development 127(22): 4891–4903.
+http://dev.biologists.org/content/127/22/4891.abstract?ijkey=4901807f5edbdd
+99cf35a478706932cbce4fd986&keytype2=tf_ipsecsha (December 17, 2014).
+Bryant, David M, Anirban Datta, Alejo E Rodríguez-Fraticelli, Johan Peränen,
+Fernando Martín-Belmonte, and Keith E Mostov. 2010. “A Molecular
+Network for de Novo Generation of the Apical Surface and Lumen.” Nature
+cell biology 12(11): 1035–45. http://dx.doi.org/10.1038/ncb2106 (August 22,
+2014).
+Cheshire, Alan M, Bilal E Kerman, Warren R Zipfel, Alexander A Spector, and
+Deborah J Andrew. 2008. “Kinetic and Mechanical Analysis of Live Tube
+Morphogenesis.” Developmental dynamics : an official publication of the
+American Association of Anatomists 237(10): 2874–88. 86
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2562558&tool=p
+mcentrez&rendertype=abstract (January 11, 2015).
+Chihara, T, and S Hayashi. 2000. “Control of Tracheal Tubulogenesis by Wingless
+Signaling.” Development (Cambridge, England) 127(20): 4433–42.
+http://www.ncbi.nlm.nih.gov/pubmed/11003842 (December 18, 2014).
+Chung, SeYeon, Cy Chavez, and Deborah J Andrew. 2011. “Trachealess (Trh)
+Regulates All Tracheal Genes during Drosophila Embryogenesis.”
+Developmental biology 360(1): 160–72.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3215829&tool=p
+mcentrez&rendertype=abstract (December 18, 2014).
+Chung, SeYeon, Melissa S Vining, Pamela L Bradley, Chih-Chiang Chan, Keith A
+Wharton, and Deborah J Andrew. 2009. “Serrano (sano) Functions with the
+Planar Cell Polarity Genes to Control Tracheal Tube Length.” ed. Norbert
+Perrimon. PLoS genetics 5(11): e1000746.
+http://dx.plos.org/10.1371/journal.pgen.1000746 (December 16, 2014).
+Conner, Sean D, and Sandra L Schmid. 2003. “Regulated Portals of Entry into the
+Cell.” Nature 422(6927): 37–44.
+http://www.ncbi.nlm.nih.gov/pubmed/12621426 (December 30, 2014).
+Cross, Benedict C S, Irmgard Sinning, Joen Luirink, and Stephen High. 2009.
+“Delivering Proteins for Export from the Cytosol.” Nature reviews. Molecular
+cell biology 10(4): 255–64. http://www.ncbi.nlm.nih.gov/pubmed/19305415
+(January 3, 2015).
+Datta, Anirban, David M Bryant, and Keith E Mostov. 2011. “Molecular
+Regulation of Lumen Morphogenesis.” Current biology : CB 21(3): R126–
+36. http://www.sciencedirect.com/science/article/pii/S0960982210015897
+(December 19, 2014).
+Deane, James A, and Sharon D Ricardo. 2007. “Polycystic Kidney Disease and the
+Renal Cilium.” Nephrology (Carlton, Vic.) 12(6): 559–64.
+http://www.ncbi.nlm.nih.gov/pubmed/17995581 (December 18, 2014).
+De Celis, J F, M Llimargas, and J Casanova. 1995. “Ventral Veinless, the Gene
+Encoding the Cf1a Transcription Factor, Links Positional Information and
+Cell Differentiation during Embryonic and Imaginal Development in
+Drosophila Melanogaster.” Development (Cambridge, England) 121(10):
+3405–16. http://www.ncbi.nlm.nih.gov/pubmed/7588073 (December 18,
+2014). 87
+Desclozeaux, Marion, Juliana Venturato, Fiona G Wylie, Jason G Kay, Shannon R
+Joseph, Huong T Le, and Jennifer L Stow. 2008. “Active Rab11 and
+Functional Recycling Endosome Are Required for E-Cadherin Trafficking
+and Lumen Formation during Epithelial Morphogenesis.” American journal
+of physiology. Cell physiology 295(2): C545–56.
+http://www.ncbi.nlm.nih.gov/pubmed/18579802 (December 19, 2014).
+Devine, W Patrick, Barry Lubarsky, Ken Shaw, Stefan Luschnig, Lisa Messina,
+and Mark A Krasnow. 2005. “Requirement for Chitin Biosynthesis in
+Epithelial Tube Morphogenesis.” Proceedings of the National Academy of
+Sciences of the United States of America 102(47): 17014–19.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1283532&tool=p
+mcentrez&rendertype=abstract (December 31, 2014).
+Doherty, Gary J, and Harvey T McMahon. 2009. “Mechanisms of Endocytosis.”
+Annual review of biochemistry 78: 857–902.
+http://www.ncbi.nlm.nih.gov/pubmed/19317650 (July 10, 2014).
+Dong, Bo, Edouard Hannezo, and Shigeo Hayashi. 2014. “Balance between
+Apical Membrane Growth and Luminal Matrix Resistance Determines
+Epithelial Tubule Shape.” Cell reports 7(4): 941–50.
+http://www.cell.com/article/S2211124714002630/fulltext (December 24,
+2014).
+Dong, Bo, Ken Kakihara, Tetsuhisa Otani, Housei Wada, and Shigeo Hayashi.
+2013. “Rab9 and Retromer Regulate Retrograde Trafficking of Luminal
+Protein Required for Epithelial Tube Length Control.” Nature
+communications 4: 1358.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3562448&tool=p
+mcentrez&rendertype=abstract (December 28, 2014).
+Ellgaard, Lars, and Ari Helenius. 2003. “Quality Control in the Endoplasmic
+Reticulum.” Nature reviews. Molecular cell biology 4(3): 181–91.
+http://www.ncbi.nlm.nih.gov/pubmed/12612637 (December 4, 2014).
+Engqvist-Goldstein, Asa E Y, and David G Drubin. 2003. “Actin Assembly and
+Endocytosis: From Yeast to Mammals.” Annual review of cell and
+developmental biology 19: 287–332.
+http://www.ncbi.nlm.nih.gov/pubmed/14570572 (January 23, 2015).
+Folkman, J, and C Haudenschild. 1980. “Angiogenesis in Vitro.” Nature
+288(5791): 551–56. http://www.ncbi.nlm.nih.gov/pubmed/6160403
+(December 31, 2014). 88
+Förster, Dominique, Kristina Armbruster, and Stefan Luschnig. 2010. “Sec24-
+Dependent Secretion Drives Cell-Autonomous Expansion of Tracheal Tubes
+in Drosophila.” Current biology : CB 20(1): 62–68.
+http://www.cell.com/article/S096098220902079X/fulltext (December 11,
+2014).
+Förster, Dominique, and Stefan Luschnig. 2012. “Src42A-Dependent Polarized
+Cell Shape Changes Mediate Epithelial Tube Elongation in Drosophila.”
+Nature cell biology 14(5): 526–34.
+http://www.ncbi.nlm.nih.gov/pubmed/22446736 (December 19, 2014).
+Gervais, Louis, and Jordi Casanova. 2010. “In Vivo Coupling of Cell Elongation
+and Lumen Formation in a Single Cell.” Current biology : CB 20(4): 359–
+66. http://www.ncbi.nlm.nih.gov/pubmed/20137948 (December 25, 2014).
+Grant, Barth D, and Julie G Donaldson. 2009. “Pathways and Mechanisms of
+Endocytic Recycling.” Nature reviews. Molecular cell biology 10(9): 597–
+608.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3038567&tool=p
+mcentrez&rendertype=abstract (July 18, 2014).
+Grosshans, Bianka L, Darinel Ortiz, and Peter Novick. 2006. “Rabs and Their
+Effectors: Achieving Specificity in Membrane Traffic.” Proceedings of the
+National Academy of Sciences of the United States of America 103(32):
+11821–27.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1567661&tool=p
+mcentrez&rendertype=abstract (January 4, 2015).
+Hales, Chadwick M, Jean-Pierre Vaerman, and James R Goldenring. 2002.
+“Rab11 Family Interacting Protein 2 Associates with Myosin Vb and
+Regulates Plasma Membrane Recycling.” The Journal of biological chemistry
+277(52): 50415–21. http://www.ncbi.nlm.nih.gov/pubmed/12393859 (January
+17, 2015).
+Hehnly, Heidi, and Mark Stamnes. 2007. “Regulating Cytoskeleton-Based Vesicle
+Motility.” FEBS letters 581(11): 2112–18.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1974873&tool=p
+mcentrez&rendertype=abstract (January 4, 2015).
+Helenius, Ari, and Markus Aebi. 2004. “Roles of N-Linked Glycans in the
+Endoplasmic Reticulum.” Annual review of biochemistry 73: 1019–49.
+http://www.ncbi.nlm.nih.gov/pubmed/15189166 (July 14, 2014). 89
+Hipfner, David R, Nadine Keller, and Stephen M Cohen. 2004. “Slik Sterile-20
+Kinase Regulates Moesin Activity to Promote Epithelial Integrity during
+Tissue Growth.” Genes & development 18(18): 2243–48.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=517517&tool=pm
+centrez&rendertype=abstract (December 15, 2014).
+Horowitz, Arie, and Michael Simons. 2008. “Branching Morphogenesis.”
+Circulation research 103(8): 784–95.
+http://circres.ahajournals.org/content/103/8/784.abstract (December 17,
+2014).
+Hough, C D, D F Woods, S Park, and P J Bryant. 1997. “Organizing a Functional
+Junctional Complex Requires Specific Domains of the Drosophila MAGUK
+Discs Large.” Genes & development 11(23): 3242–53.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=316757&tool=pm
+centrez&rendertype=abstract (January 4, 2015).
+Isaac, D D, and D J Andrew. 1996. “Tubulogenesis in Drosophila: A Requirement
+for the Trachealess Gene Product.” Genes & development 10(1): 103–17.
+http://www.ncbi.nlm.nih.gov/pubmed/8557189 (December 18, 2014).
+Jayaram, Satish Arcot, Kirsten-André Senti, Katarína Tiklová, Vasilios Tsarouhas,
+Johanna Hemphälä, and Christos Samakovlis. 2008. “COPI Vesicle Transport
+Is a Common Requirement for Tube Expansion in Drosophila.” PloS one
+3(4): e1964.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2276865&tool=p
+mcentrez&rendertype=abstract (December 27, 2014).
+Jaźwińska, Anna, and Markus Affolter. 2004. “A Family of Genes Encoding Zona
+Pellucida (ZP) Domain Proteins Is Expressed in Various Epithelial Tissues
+during Drosophila Embryogenesis.” Gene expression patterns : GEP 4(4):
+413–21. http://www.ncbi.nlm.nih.gov/pubmed/15183308 (December 24,
+2014).
+Jaźwińska, Anna, Carlos Ribeiro, and Markus Affolter. 2003. “Epithelial Tube
+Morphogenesis during Drosophila Tracheal Development Requires Piopio, a
+Luminal ZP Protein.” Nature cell biology 5(10): 895–901.
+http://www.ncbi.nlm.nih.gov/pubmed/12973360 (December 24, 2014).
+Jin, Yui, Azmiri Sultana, Pallavi Gandhi, Edward Franklin, Susan Hamamoto,
+Amir R Khan, Mary Munson, Randy Schekman, and Lois S Weisman. 2011.
+“Myosin V Transports Secretory Vesicles via a Rab GTPase Cascade and
+Interaction with the Exocyst Complex.” Developmental cell 21(6): 1156–70. 90
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3241923&tool=p
+mcentrez&rendertype=abstract (December 5, 2014).
+Johannes, Ludger, and Vincent Popoff. 2008. “Tracing the Retrograde Route in
+Protein Trafficking.” Cell 135(7): 1175–87.
+http://www.ncbi.nlm.nih.gov/pubmed/19109890 (November 4, 2014).
+Karagiosis, Sue A, and Donald F Ready. 2004. “Moesin Contributes an Essential
+Structural Role in Drosophila Photoreceptor Morphogenesis.” Development
+(Cambridge, England) 131(4): 725–32.
+http://www.ncbi.nlm.nih.gov/pubmed/14724125 (January 14, 2015).
+Kerman, Bilal E, Alan M Cheshire, and Deborah J Andrew. 2006. “From Fate to
+Function: The Drosophila Trachea and Salivary Gland as Models for
+Tubulogenesis.” Differentiation; research in biological diversity 74(7): 326–
+48.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2827874&tool=p
+mcentrez&rendertype=abstract (December 17, 2014).
+Klämbt, C, L Glazer, and B Z Shilo. 1992. “Breathless, a Drosophila FGF
+Receptor Homolog, Is Essential for Migration of Tracheal and Specific
+Midline Glial Cells.” Genes & development 6(9): 1668–78.
+http://www.ncbi.nlm.nih.gov/pubmed/1325393 (December 18, 2014).
+Klein, Thomas J, and Marek Mlodzik. 2005. “Planar Cell Polarization: An
+Emerging Model Points in the Right Direction.” Annual review of cell and
+developmental biology 21: 155–76.
+http://www.ncbi.nlm.nih.gov/pubmed/16212491 (December 30, 2014).
+Knust, Elisabeth, and Olaf Bossinger. 2002. “Composition and Formation of
+Intercellular Junctions in Epithelial Cells.” Science (New York, N.Y.)
+298(5600): 1955–59.
+http://www.sciencemag.org/content/298/5600/1955.abstract (December 17,
+2014).
+Kreitzer, Geri, Jan Schmoranzer, Seng Hui Low, Xin Li, Yunbo Gan, Thomas
+Weimbs, Sanford M Simon, and Enrique Rodriguez-Boulan. 2003. “ThreeDimensional
+Analysis of Post-Golgi Carrier Exocytosis in Epithelial Cells.”
+Nature cell biology 5(2): 126–36.
+http://www.ncbi.nlm.nih.gov/pubmed/12545172 (January 3, 2015). 91
+Kumari, Sudha, and Satyajit Mayor. 2008. “ARF1 Is Directly Involved in
+Dynamin-Independent Endocytosis.” Nature cell biology 10(1): 30–41.
+http://www.ncbi.nlm.nih.gov/pubmed/18084285 (December 3, 2014).
+Kunda, Patricia, Andrew E Pelling, Tao Liu, and Buzz Baum. 2008. “Moesin
+Controls Cortical Rigidity, Cell Rounding, and Spindle Morphogenesis during
+Mitosis.” Current biology : CB 18(2): 91–101.
+http://www.ncbi.nlm.nih.gov/pubmed/18207738 (January 11, 2015).
+Lapierre, L A, R Kumar, C M Hales, J Navarre, S G Bhartur, J O Burnette, D W
+Provance, J A Mercer, M Bähler, and J R Goldenring. 2001. “Myosin vb Is
+Associated with Plasma Membrane Recycling Systems.” Molecular biology
+of the cell 12(6): 1843–57.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=37346&tool=pmc
+entrez&rendertype=abstract (January 22, 2015).
+Laprise, Patrick, Sarah M Paul, Jim Boulanger, Renée M Robbins, Greg J Beitel,
+and Ulrich Tepass. 2010. “Epithelial Polarity Proteins Regulate Drosophila
+Tracheal Tube Size in Parallel to the Luminal Matrix Pathway.” Current
+biology : CB 20(1): 55–61.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2821987&tool=p
+mcentrez&rendertype=abstract (February 27, 2014).
+Laprise, Patrick, and Ulrich Tepass. 2011. “Novel Insights into Epithelial Polarity
+Proteins in Drosophila.” Trends in cell biology 21(7): 401–8.
+http://www.ncbi.nlm.nih.gov/pubmed/21530265 (December 19, 2014).
+Li, Bingbing X, Akiko K Satoh, and Donald F Ready. 2007a. “Myosin V, Rab11,
+and dRip11 Direct Apical Secretion and Cellular Morphogenesis in
+Developing Drosophila Photoreceptors.” The Journal of cell biology 177(4):
+659–69.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2064211&tool=p
+mcentrez&rendertype=abstract (December 19, 2014).
+Li, Bingbing X, Akiko K Satoh, and Donald F Ready. 2007b. “Myosin V, Rab11,
+and dRip11 Direct Apical Secretion and Cellular Morphogenesis in
+Developing Drosophila Photoreceptors.” The Journal of cell biology 177(4):
+659–69. http://jcb.rupress.org/content/177/4/659.long (January 14, 2015).
+Li, Jinghong, Wenjun Li, Healani C Calhoun, Fan Xia, Fen-Biao Gao, and Willis
+X Li. 2003. “Patterns and Functions of STAT Activation during Drosophila
+Embryogenesis.” Mechanisms of development 120(12): 1455–68. 92
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3090291&tool=p
+mcentrez&rendertype=abstract (December 18, 2014).
+Llimargas, M. 2000. “Wingless and Its Signalling Pathway Have Common and
+Separable Functions during Tracheal Development.” Development
+(Cambridge, England) 127(20): 4407–17.
+http://www.ncbi.nlm.nih.gov/pubmed/11003840 (December 18, 2014).
+Llimargas, M, and J Casanova. 1999. “EGF Signalling Regulates Cell
+Invagination as Well as Cell Migration during Formation of Tracheal System
+in Drosophila.” Development genes and evolution 209(3): 174–79.
+http://www.ncbi.nlm.nih.gov/pubmed/10079360 (December 18, 2014).
+Llimargas, Marta, Maura Strigini, Markella Katidou, Domna Karagogeos, and
+Jordi Casanova. 2004. “Lachesin Is a Component of a Septate Junction-Based
+Mechanism That Controls Tube Size and Epithelial Integrity in the
+Drosophila Tracheal System.” Development (Cambridge, England) 131(1):
+181–90. http://www.ncbi.nlm.nih.gov/pubmed/14681183 (January 4, 2015).
+Lu, Pengfei, and Zena Werb. 2008. “Patterning Mechanisms of Branched Organs.”
+Science (New York, N.Y.) 322(5907): 1506–9.
+http://www.sciencemag.org/content/322/5907/1506 (December 6, 2014).
+Lubarsky, Barry, and Mark A Krasnow. 2003. “Tube Morphogenesis: Making and
+Shaping Biological Tubes.” Cell 112(1): 19–28.
+http://www.ncbi.nlm.nih.gov/pubmed/12526790 (December 7, 2014).
+Luschnig, Stefan, Tilmann Bätz, Kristina Armbruster, and Mark A Krasnow.
+2006. “Serpentine and Vermiform Encode Matrix Proteins with Chitin
+Binding and Deacetylation Domains That Limit Tracheal Tube Length in
+Drosophila.” Current biology : CB 16(2): 186–94.
+http://www.ncbi.nlm.nih.gov/pubmed/16431371 (December 31, 2014).
+Luschnig, Stefan, and Anne Uv. 2014. “Luminal Matrices: An inside View on
+Organ Morphogenesis.” Experimental cell research 321(1): 64–70.
+http://www.ncbi.nlm.nih.gov/pubmed/24075963 (January 10, 2015).
+Marrichi, Matthew, Luis Camacho, David G Russell, and Matthew P DeLisa.
+2008. “Genetic Toggling of Alkaline Phosphatase Folding Reveals Signal
+Peptides for All Major Modes of Transport across the Inner Membrane of
+Bacteria.” The Journal of biological chemistry 283(50): 35223–35.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3259883&tool=p
+mcentrez&rendertype=abstract (January 3, 2015). 93
+Massarwa, R’ada, Eyal D Schejter, and Ben-Zion Shilo. 2009. “Apical Secretion
+in Epithelial Tubes of the Drosophila Embryo Is Directed by the ForminFamily
+Protein Diaphanous.” Developmental cell 16(6): 877–88.
+http://www.ncbi.nlm.nih.gov/pubmed/19531358 (December 31, 2014).
+Matsui, T, M Maeda, Y Doi, S Yonemura, M Amano, K Kaibuchi, and S Tsukita.
+1998. “Rho-Kinase Phosphorylates COOH-Terminal Threonines of
+Ezrin/radixin/moesin (ERM) Proteins and Regulates Their Head-to-Tail
+Association.” The Journal of cell biology 140(3): 647–57.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2140160&tool=p
+mcentrez&rendertype=abstract (January 15, 2015).
+Mayor, Satyajit, and Richard E Pagano. 2007. “Pathways of Clathrin-Independent
+Endocytosis.” Nature reviews. Molecular cell biology 8(8): 603–12.
+http://www.ncbi.nlm.nih.gov/pubmed/17609668 (July 15, 2014).
+Médina, Emmanuelle, Janice Williams, Elizabeth Klipfell, Daniela Zarnescu,
+Graham Thomas, and André Le Bivic. 2002. “Crumbs Interacts with Moesin
+and beta(Heavy)-Spectrin in the Apical Membrane Skeleton of Drosophila.”
+The Journal of cell biology 158(5): 941–51.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2173152&tool=p
+mcentrez&rendertype=abstract (December 19, 2014).
+Mellman, Ira, and W James Nelson. 2008. “Coordinated Protein Sorting,
+Targeting and Distribution in Polarized Cells.” Nature reviews. Molecular
+cell biology 9(11): 833–45.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3369829&tool=p
+mcentrez&rendertype=abstract (July 17, 2014).
+Moussian, Bernard, Erika Tång, Anna Tonning, Sigrun Helms, Heinz Schwarz,
+Christiane Nüsslein-Volhard, and Anne E Uv. 2006. “Drosophila Knickkopf
+and Retroactive Are Needed for Epithelial Tube Growth and Cuticle
+Differentiation through Their Specific Requirement for Chitin Filament
+Organization.” Development (Cambridge, England) 133(1): 163–71.
+http://dev.biologists.org/content/133/1/163.long (March 23, 2014).
+Müsch, Anne, David Cohen, Charles Yeaman, W James Nelson, Enrique
+Rodriguez-Boulan, and Patrick J Brennwald. 2002. “Mammalian Homolog of
+Drosophila Tumor Suppressor Lethal (2) Giant Larvae Interacts with
+Basolateral Exocytic Machinery in Madin-Darby Canine Kidney Cells.”
+Molecular biology of the cell 13(1): 158–68.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=65098&tool=pmc
+entrez&rendertype=abstract (December 31, 2014). 94
+Nelson, Kevin S, Mikio Furuse, and Greg J Beitel. 2010. “The Drosophila Claudin
+Kune-Kune Is Required for Septate Junction Organization and Tracheal Tube
+Size Control.” Genetics 185(3): 831–39.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2907205&tool=p
+mcentrez&rendertype=abstract (February 27, 2014).
+Nelson, Kevin S, Zia Khan, Imre Molnár, József Mihály, Matthias Kaschube, and
+Greg J Beitel. 2012. “Drosophila Src Regulates Anisotropic Apical Surface
+Growth to Control Epithelial Tube Size.” Nature cell biology 14(5): 518–25.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3343215&tool=p
+mcentrez&rendertype=abstract (December 19, 2014).
+Norum, Michaela, Erika Tång, Tina Chavoshi, Heinz Schwarz, Dirk Linke, Anne
+Uv, and Bernard Moussian. 2010. “Trafficking through COPII Stabilises Cell
+Polarity and Drives Secretion during Drosophila Epidermal Differentiation.”
+PloS one 5(5): e10802.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2875407&tool=p
+mcentrez&rendertype=abstract (December 27, 2014).
+O’Brien, Lucy Erin, Mirjam M P Zegers, and Keith E Mostov. 2002. “Opinion:
+Building Epithelial Architecture: Insights from Three-Dimensional Culture
+Models.” Nature reviews. Molecular cell biology 3(7): 531–37.
+http://dx.doi.org/10.1038/nrm859 (December 17, 2014).
+Oda, H, T Uemura, Y Harada, Y Iwai, and M Takeichi. 1994. “A Drosophila
+Homolog of Cadherin Associated with Armadillo and Essential for
+Embryonic Cell-Cell Adhesion.” Developmental biology 165(2): 716–26.
+http://www.ncbi.nlm.nih.gov/pubmed/7958432 (January 4, 2015).
+Padash-Barmchi, Mojgan, Kristi Charish, Jammie Que, and Vanessa J Auld. 2013.
+“Gliotactin and Discs Large Are Co-Regulated to Maintain Epithelial
+Integrity.” Journal of cell science 126(Pt 5): 1134–43.
+http://www.ncbi.nlm.nih.gov/pubmed/23321643 (December 10, 2014).
+Paul, Sarah M, Michael J Palladino, and Greg J Beitel. 2007. “A PumpIndependent
+Function of the Na,K-ATPase Is Required for Epithelial Junction
+Function and Tracheal Tube-Size Control.” Development (Cambridge,
+England) 134(1): 147–55.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1955469&tool=p
+mcentrez&rendertype=abstract (February 27, 2014).
+Petkau, Georg, Christian Wingen, Laura C A Jussen, Tina Radtke, and Matthias
+Behr. 2012. “Obstructor-A Is Required for Epithelial Extracellular Matrix 95
+Dynamics, Exoskeleton Function, and Tubulogenesis.” The Journal of
+biological chemistry 287(25): 21396–405.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3375561&tool=p
+mcentrez&rendertype=abstract (March 23, 2014).
+Pilot, Fanny, Jean-Marc Philippe, Céline Lemmers, and Thomas Lecuit. 2006.
+“Spatial Control of Actin Organization at Adherens Junctions by a
+Synaptotagmin-like Protein Btsz.” Nature 442(7102): 580–84.
+http://www.ncbi.nlm.nih.gov/pubmed/16862128 (January 7, 2015).
+Pinal, Noelia, and Franck Pichaud. 2011. “Dynamin- and Rab5-Dependent
+Endocytosis Is Required to Prevent Drosophila Photoreceptor Degeneration.”
+Journal of cell science 124(Pt 9): 1564–70.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3078820&tool=p
+mcentrez&rendertype=abstract (January 23, 2015).
+Prekeris, R, J Klumperman, and R H Scheller. 2000. “A Rab11/Rip11 Protein
+Complex Regulates Apical Membrane Trafficking via Recycling
+Endosomes.” Molecular cell 6(6): 1437–48.
+http://www.ncbi.nlm.nih.gov/pubmed/11163216 (January 22, 2015).
+Prekeris, Rytis. 2003. “Rabs, Rips, FIPs, and Endocytic Membrane Traffic.”
+TheScientificWorldJournal 3: 870–80.
+http://www.ncbi.nlm.nih.gov/pubmed/14532427 (January 22, 2015).
+Rabouille, Catherine, and Judith Klumperman. 2005. “Opinion: The Maturing
+Role of COPI Vesicles in Intra-Golgi Transport.” Nature reviews. Molecular
+cell biology 6(10): 812–17. http://www.ncbi.nlm.nih.gov/pubmed/16167055
+(January 4, 2015).
+Reck-Peterson, S L, D W Provance, M S Mooseker, and J A Mercer. 2000. “Class
+V Myosins.” Biochimica et biophysica acta 1496(1): 36–51.
+http://www.ncbi.nlm.nih.gov/pubmed/10722875 (January 21, 2015).
+Reichman-Fried, M, B Dickson, E Hafen, and B Z Shilo. 1994. “Elucidation of the
+Role of Breathless, a Drosophila FGF Receptor Homolog, in Tracheal Cell
+Migration.” Genes & development 8(4): 428–39.
+http://www.ncbi.nlm.nih.gov/pubmed/8125257 (December 18, 2014).
+Reitsma, Sietze, Dick W Slaaf, Hans Vink, Marc A M J van Zandvoort, and
+Mirjam G A oude Egbrink. 2007. “The Endothelial Glycocalyx: Composition,
+Functions, and Visualization.” Pflügers Archiv : European journal of
+physiology 454(3): 345–59. 96
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1915585&tool=p
+mcentrez&rendertype=abstract (December 28, 2014).
+Ribeiro, Carlos, Marc Neumann, and Markus Affolter. 2004. “Genetic Control of
+Cell Intercalation during Tracheal Morphogenesis in Drosophila.” Current
+biology : CB 14(24): 2197–2207.
+http://www.sciencedirect.com/science/article/pii/S096098220400939X
+(December 19, 2014).
+Roeth, Jeremiah F, Jessica K Sawyer, Daniel A Wilner, and Mark Peifer. 2009.
+“Rab11 Helps Maintain Apical Crumbs and Adherens Junctions in the
+Drosophila Embryonic Ectoderm.” ed. Andreas Bergmann. PloS one 4(10):
+e7634. http://dx.plos.org/10.1371/journal.pone.0007634 (December 1, 2014).
+Rothman, J E. 1994. “Mechanisms of Intracellular Protein Transport.” Nature
+372(6501): 55–63. http://www.ncbi.nlm.nih.gov/pubmed/7969419 (January 4,
+2015).
+Samakovlis, C, N Hacohen, G Manning, D C Sutherland, K Guillemin, and M A
+Krasnow. 1996. “Development of the Drosophila Tracheal System Occurs by
+a Series of Morphologically Distinct but Genetically Coupled Branching
+Events.” Development (Cambridge, England) 122(5): 1395–1407.
+http://www.ncbi.nlm.nih.gov/pubmed/8625828 (December 18, 2014).
+Sandvig, Kirsten, Maria Lyngaas Torgersen, Hilde Andersen Raa, and Bo van
+Deurs. 2008. “Clathrin-Independent Endocytosis: From Nonexisting to an
+Extreme Degree of Complexity.” Histochemistry and cell biology 129(3):
+267–76.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2248609&tool=p
+mcentrez&rendertype=abstract (December 11, 2014).
+Satoh, Akiko K, Joseph E O’Tousa, Koichi Ozaki, and Donald F Ready. 2005.
+“Rab11 Mediates Post-Golgi Trafficking of Rhodopsin to the Photosensitive
+Apical Membrane of Drosophila Photoreceptors.” Development (Cambridge,
+England) 132(7): 1487–97. http://dev.biologists.org/content/132/7/1487.long
+(January 5, 2015).
+Sawyer, Jacob M, Jessica R Harrell, Gidi Shemer, Jessica Sullivan-Brown, Minna
+Roh-Johnson, and Bob Goldstein. 2010. “Apical Constriction: A Cell Shape
+Change That Can Drive Morphogenesis.” Developmental biology 341(1): 5–
+19. http://www.sciencedirect.com/science/article/pii/S0012160609011786
+(December 6, 2014). 97
+Schmid, S L. 1997. “Clathrin-Coated Vesicle Formation and Protein Sorting: An
+Integrated Process.” Annual review of biochemistry 66: 511–48.
+http://www.ncbi.nlm.nih.gov/pubmed/9242916 (January 4, 2015).
+Schott, D. 1999. “The COOH-Terminal Domain of Myo2p, a Yeast Myosin V,
+Has a Direct Role in Secretory Vesicle Targeting.” The Journal of Cell
+Biology 147(4): 791–808.
+http://jcb.rupress.org/content/147/4/791.abstract?ijkey=ffca17518c8a67d5872
+f340691bb75e9699ae80f&keytype2=tf_ipsecsha (January 22, 2015).
+Seifert, Jessica R K, and Marek Mlodzik. 2007. “Frizzled/PCP Signalling: A
+Conserved Mechanism Regulating Cell Polarity and Directed Motility.”
+Nature reviews. Genetics 8(2): 126–38.
+http://www.ncbi.nlm.nih.gov/pubmed/17230199 (December 23, 2014).
+Shaw, R J, M Henry, F Solomon, and T Jacks. 1998. “RhoA-Dependent
+Phosphorylation and Relocalization of ERM Proteins into Apical
+Membrane/actin Protrusions in Fibroblasts.” Molecular biology of the cell
+9(2): 403–19.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=25270&tool=pmc
+entrez&rendertype=abstract (January 15, 2015).
+Shaye, Daniel D, Jordi Casanova, and Marta Llimargas. 2008. “Modulation of
+Intracellular Trafficking Regulates Cell Intercalation in the Drosophila
+Trachea.” Nature cell biology 10(8): 964–70.
+http://www.ncbi.nlm.nih.gov/pubmed/18641639 (December 19, 2014).
+Smythe, Elizabeth, and Kathryn R Ayscough. 2006. “Actin Regulation in
+Endocytosis.” Journal of cell science 119(Pt 22): 4589–98.
+http://www.ncbi.nlm.nih.gov/pubmed/17093263 (December 5, 2014).
+Song, Byeong Doo, Marilyn Leonard, and Sandra L Schmid. 2004. “Dynamin
+GTPase Domain Mutants That Differentially Affect GTP Binding, GTP
+Hydrolysis, and Clathrin-Mediated Endocytosis.” The Journal of biological
+chemistry 279(39): 40431–36.
+http://www.ncbi.nlm.nih.gov/pubmed/15262989 (January 3, 2015).
+Sotillos, Sol, Jose Manuel Espinosa-Vázquez, Filippo Foglia, Nan Hu, and James
+Castelli-Gair Hombría. 2010. “An Efficient Approach to Isolate STAT
+Regulated Enhancers Uncovers STAT92E Fundamental Role in Drosophila
+Tracheal Development.” Developmental biology 340(2): 571–82.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2877871&tool=p
+mcentrez&rendertype=abstract (December 18, 2014). 98
+Speck, Olga, Sarah C Hughes, Nicole K Noren, Rima M Kulikauskas, and Richard
+G Fehon. 2003. “Moesin Functions Antagonistically to the Rho Pathway to
+Maintain Epithelial Integrity.” Nature 421(6918): 83–87.
+http://www.ncbi.nlm.nih.gov/pubmed/12511959 (January 11, 2015).
+Steinman, R M, I S Mellman, W A Muller, and Z A Cohn. 1983. “Endocytosis and
+the Recycling of Plasma Membrane.” The Journal of cell biology 96(1): 1–27.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2112240&tool=p
+mcentrez&rendertype=abstract (December 30, 2014).
+Strutt, D I, U Weber, and M Mlodzik. 1997. “The Role of RhoA in Tissue Polarity
+and Frizzled Signalling.” Nature 387(6630): 292–95.
+http://www.ncbi.nlm.nih.gov/pubmed/9153394 (January 5, 2015).
+Strutt, David. 2003. “Frizzled Signalling and Cell Polarisation in Drosophila and
+Vertebrates.” Development (Cambridge, England) 130(19): 4501–13.
+http://www.ncbi.nlm.nih.gov/pubmed/12925579 (December 29, 2014).
+Sutherland, D, C Samakovlis, and M A Krasnow. 1996. “Branchless Encodes a
+Drosophila FGF Homolog That Controls Tracheal Cell Migration and the
+Pattern of Branching.” Cell 87(6): 1091–1101.
+http://www.ncbi.nlm.nih.gov/pubmed/8978613 (December 18, 2014).
+Swanson, Lianna E, and Greg J Beitel. 2006. “Tubulogenesis: An inside Job.”
+Current biology : CB 16(2): R51–53.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1459910&tool=p
+mcentrez&rendertype=abstract (December 31, 2014).
+Swanson, Lianna E, Marcus Yu, Kevin S Nelson, Patrick Laprise, Ulrich Tepass,
+and Greg J Beitel. 2009. “Drosophila convoluted/dALS Is an Essential Gene
+Required for Tracheal Tube Morphogenesis and Apical Matrix Organization.”
+Genetics 181(4): 1281–90.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2666499&tool=p
+mcentrez&rendertype=abstract (January 25, 2014).
+Syed, Zulfeqhar A, Anne-Laure Bougé, Sunitha Byri, Tina M Chavoshi, Erika
+Tång, Hervé Bouhin, Iris F van Dijk-Härd, and Anne Uv. 2012. “A Luminal
+Glycoprotein Drives Dose-Dependent Diameter Expansion of the Drosophila
+Melanogaster Hindgut Tube.” PLoS genetics 8(8): e1002850.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3410870&tool=p
+mcentrez&rendertype=abstract (January 10, 2015). 99
+Tepass, U, G Tanentzapf, R Ward, and R Fehon. 2001. “Epithelial Cell Polarity
+and Cell Junctions in Drosophila.” Annual review of genetics 35: 747–84.
+http://www.ncbi.nlm.nih.gov/pubmed/11700298 (January 4, 2015).
+Thomas, S M, and J S Brugge. 1997. “Cellular Functions Regulated by Src Family
+Kinases.” Annual review of cell and developmental biology 13: 513–609.
+http://www.ncbi.nlm.nih.gov/pubmed/9442882 (December 22, 2014).
+Tiklová, Katarína, Vasilios Tsarouhas, and Christos Samakovlis. 2013a. “Control
+of Airway Tube Diameter and Integrity by Secreted Chitin-Binding Proteins
+in Drosophila.” ed. Efthimios M. C. Skoulakis. PloS one 8(6): e67415.
+http://dx.plos.org/10.1371/journal.pone.0067415 (December 31, 2014).
+Tiklová, Katarína, Vasilios Tsarouhas, and Christos Samakovlis 2013b. “Control
+of Airway Tube Diameter and Integrity by Secreted Chitin-Binding Proteins
+in Drosophila.” PloS one 8(6): e67415.
+http://www.plosone.org/article/info:doi/10.1371/journal.pone.0067415#pone.
+0067415-Forster2 (March 23, 2014).
+Tonning, Anna, Johanna Hemphälä, Erika Tång, Ulf Nannmark, Christos
+Samakovlis, and Anne Uv. 2005. “A Transient Luminal Chitinous Matrix Is
+Required to Model Epithelial Tube Diameter in the Drosophila Trachea.”
+Developmental cell 9(3): 423–30.
+http://www.ncbi.nlm.nih.gov/pubmed/16139230 (December 31, 2014).
+Traub, L M, and S Kornfeld. 1997. “The Trans-Golgi Network: A Late Secretory
+Sorting Station.” Current opinion in cell biology 9(4): 527–33.
+http://www.ncbi.nlm.nih.gov/pubmed/9261049 (January 4, 2015).
+Tsarouhas, Vasilios, Kirsten-André Senti, Satish Arcot Jayaram, Katarína Tiklová,
+Johanna Hemphälä, Jeremy Adler, and Christos Samakovlis. 2007.
+“Sequential Pulses of Apical Epithelial Secretion and Endocytosis Drive
+Airway Maturation in Drosophila.” Developmental cell 13(2): 214–25.
+http://www.sciencedirect.com/science/article/pii/S1534580707002572
+(December 18, 2014).
+Ukken, Fiona Paul, Imola Aprill, N JayaNandanan, and Maria Leptin. 2014a. “Slik
+and the Receptor Tyrosine Kinase Breathless Mediate Localized Activation of
+Moesin in Terminal Tracheal Cells.” PloS one 9(7): e103323.
+http://www.plosone.org/article/info:doi/10.1371/journal.pone.0103323#pone.
+0103323-Hipfner2 (December 22, 2014). 100
+Ukken, Fiona Paul, Imola Aprill, N JayaNandanan, and Maria Leptin. 2014b.
+“Slik and the Receptor Tyrosine Kinase Breathless Mediate Localized
+Activation of Moesin in Terminal Tracheal Cells.” ed. Florence Janody. PloS
+one 9(7): e103323. http://dx.plos.org/10.1371/journal.pone.0103323
+(December 22, 2014).
+Van der Bliek, A M, and E M Meyerowitz. 1991. “Dynamin-like Protein Encoded
+by the Drosophila Shibire Gene Associated with Vesicular Traffic.” Nature
+351(6325): 411–14. http://www.ncbi.nlm.nih.gov/pubmed/1674590 (January
+3, 2015).
+Vincent, S, E Ruberte, N C Grieder, C K Chen, T Haerry, R Schuh, and M
+Affolter. 1997. “DPP Controls Tracheal Cell Migration along the
+Dorsoventral Body Axis of the Drosophila Embryo.” Development
+(Cambridge, England) 124(14): 2741–50.
+http://www.ncbi.nlm.nih.gov/pubmed/9226445 (December 18, 2014).
+Walter, P, and G Blobel. 1981. “Translocation of Proteins across the Endoplasmic
+Reticulum III. Signal Recognition Protein (SRP) Causes Signal SequenceDependent
+and Site-Specific Arrest of Chain Elongation That Is Released by
+Microsomal Membranes.” The Journal of cell biology 91(2 Pt 1): 557–61.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2111983&tool=p
+mcentrez&rendertype=abstract (January 3, 2015).
+Wang, Shenqiu, Satish Arcot Jayaram, Johanna Hemphälä, Kirsten-André Senti,
+Vasilios Tsarouhas, Haining Jin, and Christos Samakovlis. 2006. “SeptateJunction-Dependent
+Luminal Deposition of Chitin Deacetylases Restricts
+Tube Elongation in the Drosophila Trachea.” Current biology : CB 16(2):
+180–85. http://www.ncbi.nlm.nih.gov/pubmed/16431370 (December 31,
+2014).
+Wiegerinck, Caroline L, Andreas R Janecke, Kerstin Schneeberger, Georg F
+Vogel, Désirée Y van Haaften-Visser, Johanna C Escher, Rüdiger Adam,
+Cornelia E Thöni, Kristian Pfaller, Alexander J Jordan, Cleo-Aron Weis,
+Isaac J Nijman, Glen R Monroe, Peter M van Hasselt, Ernest Cutz, Judith
+Klumperman, Hans Clevers, Edward E S Nieuwenhuis, Roderick H J
+Houwen, Gijs van Haaften, Michael W Hess, Lukas A Huber, Janneke M
+Stapelbroek, Thomas Müller, and Sabine Middendorp. 2014. “Loss of
+Syntaxin 3 Causes Variant Microvillus Inclusion Disease.” Gastroenterology
+147(1): 65–68.e10. http://www.ncbi.nlm.nih.gov/pubmed/24726755
+(December 30, 2014). 101
+Wilk, R, I Weizman, and B Z Shilo. 1996. “Trachealess Encodes a bHLH-PAS
+Protein That Is an Inducer of Tracheal Cell Fates in Drosophila.” Genes &
+development 10(1): 93–102. http://www.ncbi.nlm.nih.gov/pubmed/8557198
+(December 18, 2014).
+Wingen, Christian, Anna C Aschenbrenner, Birgit Stümpges, Michael Hoch, and
+Matthias Behr. “The Wurst Protein: A Novel Endocytosis Regulator Involved
+in Airway Clearance and Respiratory Tube Size Control.” Cell adhesion &
+migration 3(1): 14–18.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2675142&tool=p
+mcentrez&rendertype=abstract (January 3, 2015).
+Wu, Victoria M, and Greg J Beitel. 2004. “A Junctional Problem of Apical
+Proportions: Epithelial Tube-Size Control by Septate Junctions in the
+Drosophila Tracheal System.” Current opinion in cell biology 16(5): 493–99.
+http://www.ncbi.nlm.nih.gov/pubmed/15363798 (December 19, 2014).
+Wu, Victoria M, Joost Schulte, Alexander Hirschi, Ulrich Tepass, and Greg J
+Beitel. 2004a. “Sinuous Is a Drosophila Claudin Required for Septate
+Junction Organization and Epithelial Tube Size Control.” The Journal of cell
+biology 164(2): 313–23. http://jcb.rupress.org/content/164/2/313.full
+(December 17, 2014).
+Wu, Victoria M, Joost Schulte, Alexander Hirschi, Ulrich Tepass, and Greg J
+Beitel. 2004b. “Sinuous Is a Drosophila Claudin Required for Septate
+Junction Organization and Epithelial Tube Size Control.” The Journal of cell
+biology 164(2): 313–23.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2172325&tool=p
+mcentrez&rendertype=abstract (December 17, 2014).
+Wu, Victoria M, Marcus H Yu, Raehum Paik, Swati Banerjee, Zhiguo Liang,
+Sarah M Paul, Manzoor A Bhat, and Greg J Beitel. 2007. “Drosophila
+Varicose, a Member of a New Subgroup of Basolateral MAGUKs, Is
+Required for Septate Junctions and Tracheal Morphogenesis.” Development
+(Cambridge, England) 134(5): 999–1009.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1955473&tool=p
+mcentrez&rendertype=abstract (February 27, 2014).
+Wucherpfennig, Tanja, Michaela Wilsch-Bräuninger, and Marcos GonzálezGaitán.
+2003. “Role of Drosophila Rab5 during Endosomal Trafficking at the
+Synapse and Evoked Neurotransmitter Release.” The Journal of cell biology
+161(3): 609–24. 102
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2172938&tool=p
+mcentrez&rendertype=abstract (December 9, 2014).
+Xu, Na, Gaiana Bagumian, Michael Galiano, and Monn Monn Myat. 2011. “Rho
+GTPase Controls Drosophila Salivary Gland Lumen Size through Regulation
+of the Actin Cytoskeleton and Moesin.” Development (Cambridge, England)
+138(24): 5415–27.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3222215&tool=p
+mcentrez&rendertype=abstract (January 15, 2015).
+Yamanaka, Tomoyuki, Yosuke Horikoshi, Natsuko Izumi, Atsushi Suzuki, Keiko
+Mizuno, and Shigeo Ohno. 2006. “Lgl Mediates Apical Domain Disassembly
+by Suppressing the PAR-3-aPKC-PAR-6 Complex to Orient Apical
+Membrane Polarity.” Journal of cell science 119(Pt 10): 2107–18.
+http://www.ncbi.nlm.nih.gov/pubmed/16638806 (January 4, 2015).
+Yeaman, C, A H Le Gall, A N Baldwin, L Monlauzeur, A Le Bivic, and E
+Rodriguez-Boulan. 1997. “The O-Glycosylated Stalk Domain Is Required for
+Apical Sorting of Neurotrophin Receptors in Polarized MDCK Cells.” The
+Journal of cell biology 139(4): 929–40.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2139957&tool=p
+mcentrez&rendertype=abstract (January 3, 2015).
+Zuo, Li, Ekaterini Iordanou, Rachana R Chandran, and Lan Jiang. 2013. “Novel
+Mechanisms of Tube-Size Regulation Revealed by the Drosophila Trachea.”
+Cell and tissue research 354(2): 343–54.
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3812325&tool=p
+mcentrez&rendertype=abstract (December 26, 2014). 103 
